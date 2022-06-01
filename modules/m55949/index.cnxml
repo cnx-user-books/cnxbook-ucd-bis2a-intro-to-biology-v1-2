@@ -1,0 +1,39 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Bis2A 07.4 Pentose Phosphate Pathway</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m55949</md:content-id>
+  <md:title>Bis2A 07.4 Pentose Phosphate Pathway</md:title>
+  <md:abstract/>
+  <md:uuid>81b825ec-f36f-4b25-a9c9-589ebd8ae4fc</md:uuid>
+</metadata>
+
+<content>
+  <section id="eip-680"><title>Intro into the Pentose Pathway</title><para id="eip-54">In most introductory biology and biochemistry courses focus on glycolysis (oxidation of glucose to pyruvate) and the TCA cycle, the oxidation of pyruvate to acetyl~CoA and the eventual complete oxidation to CO<sub>2</sub>.  While these are extremely important and universal reactions, most courses leave out the pentose phosphate pathway or hexose monophosphate shunt.  This pathway, like the TCA cycle is partially cyclic in nature, where 3 glucose molecules enter and 2 glucose and 1 glyceraldyde-3-phosphate leave.  The 2 glucose molecules can recycle and the G3P enters glycolysis.  Its an important pathway because it is the primary mechanism for the formation of pentoses, the five carbon sugar required for nucleotide biosynthesis as well as the formation of a variety of other essential cellular components and NADPH, the cellular reductant primarily used in anabolic reactions.  </para><para id="eip-210"><title>A note from the Instuctor</title>As with the modules on glycolysis and the TCA cycle, there is a lot of material in this module.  AS with the other modules, I do not expect you to memorize specific names of compounds or enzymes.  However, I will give you those names for completeness.  For exams I will always provide you with the pathways we discuss in class and in the BioStax Biology text modules. What you need to be able to do is understand what is going on in each reaction.  We will go over in lecture, problems that will be similar to those I will ask of you on exams. Do not be overwhelmed with specific enzyme names and specific structures.  What you should know are the general types of enzymes used and the types of structures found.  For example you do <term>not</term> need to memorize the structures of eyrthose or sedoheptulose.  You will need to know that both are sugars, the former a 4-carbon sugar and the latter a 7-carbon sugar.  Remember the ending "ose" identifies the compound as a sugar.  In addition, you will <term>not</term> need to know the details of the two unique reactins found in the PPP, the <term>transketolase</term> and <term>transaldolase</term> reactions, thow you do need to be able to identify a ketone containing sugar versus an aldehyde containing sugar.  Finally, you will <term>not</term> be expected to memorize enzyme names, but like in glycolysis and the TCA cycle you will be expected to know the various types of reactions a type of enzyme can catalyze, for example, a <term>transaldolase</term> moves aldehyde groups from one compound to another. This is the level of understanding I expect.  If you have any questions please ask.  
+</para></section><section id="eip-575"><title>Oxidatvie Pentose Phosphate Pathway:  AKA  The hexose monophosphate shunt</title><para id="eip-245">While glycolysis has evolved to oxidize hexoses to form carbon precursors for biosynthesis, energy (ATP) and reducing power (NADH) the Pentose Phosphate Pathway (PPP) has evolved to utilize pentoses or five carbon sugars.  Pentose are required precursors for nucleotides and other essential biomolecules.  The PPP also generates NADPH instead of NADH, which is required for most anabolic reactions.  The PPP, in conjuction with Glycolysis and the TCA cycle make up what we call Central Metabolism.  These 3 central pathways (along with the reaction Pyruvate to Acetyl~CoA) are responsible for producing all of the necessary precursor molecules required by all cells.  The PPP is responsible for producing <term>pentos-phosphates</term> (5 carbon sugars), <term>Eyrthrose-phosphate</term>(four carbon sugars)and <term>NADPH</term>.  This pathway is also responsible for the production of <term>Sedoheptulose
+-phosphate</term>, an essential 7-carbon sugar used in the outer cell membranes of Gram-negative bacteria.  
+
+</para>
+<para id="eip-624">Below is a diagram of the pathway.  The pathway is complex and involves a variety of novel rearrangement reactions that move two and three carbon units around.  These reactions called <term>transaldolase</term> and <term>transketalase</term> are used to produce the intermediates within the pathway.  The net result is oxidation and subsequent decarboxylation of glucose to form a pentose.  The total reaction involves 3 glucose-6-Phosphate (in green) molecules being oxidized to form 3 CO<sub>2</sub> molecules, 1 glyceraldehyde-Phosphate (in red), and 2 hexose-phosphates (in red).  In this cycle, the formed glyceradehyde-Phosphate feeds into glycolysis and the 2 hexose-Phosphates (glucose-Phosphates) can recycle into the PPP or gycolysis.
+
+<figure id="fs-id1168376458341"><media id="fs-id1168376630102" alt="">
+<image mime-type="image/jpg" src="../../media/figure1-60cd.jpg"/>
+</media>
+<caption>Pentose Phosphate Pathway</caption></figure>
+
+<figure id="fs-id1170581431076"><media id="fs-id1170579825256" alt="">
+<image mime-type="image/jpg" src="../../media/figure2.jpg"/>
+</media>
+<caption>Take home message</caption></figure>
+
+
+
+</para><para id="eip-815">As shown in Figure 2, the net result of the pathway is 1 trios-phosphate (glyceraldehyde-3-Phosphate) that can then be further oxidized via glycolysis; 2 recycled hexose-phosphates (in the form of either glucose-6-phosphae or fructose-6-phosphate) and NADPH which is required reductant for many biosynthetic (anabolic) reactions.  The pathway provides a variety of intermediate sugar-phosphates that the cell may require, such as pentose-phosphates (for nucleotides and some amino acids), erythrose-phosphate (for amino acids) and sedohepulose-phosphate, for Gram-negative bacteria. </para><para id="eip-7">The PPP along with glycolysis, the TCA cycle and the oxidation of Pyruvate to acetyl-Co makes up the major pathways of central metabolism and is required to some degree of all organisms to construct the basic substrates to create the building blocks of life.</para></section><section id="eip-945"><title>Section Summary</title><para id="eip-298">
+By the end of this module you should be able to describe the role the pentose phosphate pathway plays in central metabolism.  Determine the end-products of the pathway.  
+</para></section>
+  
+  
+
+</content>
+
+</document>

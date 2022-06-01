@@ -1,0 +1,1192 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Bis2A 02.Appendix II  Detailed look at Acid-Base Equilibrium</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m55963</md:content-id>
+  <md:title>Bis2A 02.Appendix II  Detailed look at Acid-Base Equilibrium</md:title>
+  <md:abstract/>
+  <md:uuid>0cd7f55a-4906-4ffb-ba96-46b8221c5ba6</md:uuid>
+</metadata>
+
+<content>
+<section id="id4559135">
+<title>A more detailed look at Acid-Base chemistry</title><para id="eip-192"><title>An important note about this module</title>This module is meant as an additional resource on Acid-Base chemistry to help further explain this critical process.  It is much more mathematically intensive than the what was presented in Module 2.3 and is meant as a supplement.  The purpose of providing this module is to help explain in more detail how the various equations and constants are derived.  Use this module as a resource, it contains links to various videos and other resources that will help explain the basic concepts.  </para><para id="id4559142">Acids and bases are very common substances
+whose properties vary greatly. Many acids are known to be quite
+corrosive, with the ability to dissolve solid metals or burn flesh.
+Many other acids, however, are not only benign but vital to the
+processes of life. Far from destroying biological molecules, they
+carry out reactions critical for organisms. Similarly, many bases
+are caustic cleansers while many others are medications to calm
+indigestion pains.</para>
+<para id="id4562806">In this concept study, we will develop an
+understanding of the characteristics of molecules which make them
+either acids or bases. We will examine measurements about the
+relative strengths of acids and bases, and we will use these to
+develop a quantitative understanding of the relative strengths of
+acids and bases. From this, we can develop a qualitative
+understanding of the properties of molecules which determine
+whether a molecule is a strong acid or a weak acid, a strong base
+or a weak base. This understanding is valuable in predicting the
+outcomes of reactions, based on the relative quantitative strengths
+of acids and bases. These reactions are commonly referred to as
+neutralization reactions. A surprisingly large number of reactions,
+particularly in organic chemistry, can be understood as transfer of
+hydrogen ions from acid molecules to base molecules.</para><para id="eip-396">The point of this module is for you to become familiar with the concepts of acids and bases and how as biologist we use them in understanding how molecules interact with each other and the environment.  You do not need to memorize any equations or tables, but you should be able to use the tables and understand conceptually what is is meant when we say, a specific carboxyl group has a pKa of 2.2.  Think of this as an extension to our discussion on water and pH; primarily because water can be thought of as an acid and a base.  Remember that water can ionize into a hydroxyl ion (OH-) and a Hydronium ion (H3O+), which is the basis for pH.    </para><para id="eip-35"><title>What is the role in Bis2A of acid-base chemistry</title>One basic concept of this course is that structure influences or drives function.  That is how do molecules do what they do to allow for continued life.  Much of this is based on what form of the molecule predominates.  For example, as we will learn, the shape of protein is driven by the sequence of the amino acids and how they interact with each other.  These interaction are influenced by the form many amino acids can take, whether they are protonated, in the basic form or deprotonated, in the acidic.  Think about this would the protonated form of an acid or base effect how it interacts with other charged or uncharged compounds.  For example, hemoglobin, the protein that carries oxygen in our blood is influenced by pH.  The pH of the hemoglobin dictates whether it can bind or release oxygen.  </para><section id="eip-581"><title>Additional Links</title><para id="eip-880">Below you will find additional links that are meant to serve as supplemental material if you are having difficulty with this topic.  These links go to the UC Davis Chemwiki site and videos from the Khan Academy.  
+</para><list id="eip-774"><title>Khan Academy Links</title><item><link url="https://www.khanacademy.org/science/chemistry/acids-and-bases ">Acids and Bases</link>.</item>
+
+
+</list><list id="eip-938"><title>UCD Chemwiki links</title><item><link url="http://chemwiki.ucdavis.edu/Physical_Chemistry/Acids_and_Bases ">acids and bases</link></item>
+
+<item><link url="http://chemwiki.ucdavis.edu/Physical_Chemistry/Acids_and_Bases/Acid/Bronsted_Concept_of_Acids_and_Bases ">Bronsted acids and bases</link></item></list></section></section>
+<section id="id4349532">
+<title>Observation 1: Strong Acids and Weak Acids</title>
+<para id="id4349540">From the definition of an acid given in the
+Foundation, a typical acid can be written as
+HA,
+representing the hydrogen ion which will be donated and the rest of
+the molecule which will remain as a negative ion after the
+donation. The typical reaction of an acid in aqueous solution
+reacting with water can be written as</para><equation id="eqn1"><m:math><m:mrow><m:mtext>H</m:mtext><m:mi>A</m:mi><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo><m:mo>→</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:msup><m:mi>A</m:mi><m:mo>-</m:mo></m:msup><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo></m:mrow></m:math></equation><para id="id4425222">In this reaction,
+HA(aq) represents an acid molecule dissolved in aqueous solution.
+H<sub>3</sub>O<sup>+</sup>(aq) 
+is a notation to indicate that the donated proton has been
+dissolved in solution. Observations indicate that the proton is
+associated with several water molecules in a cluster, rather than
+attached to a single molecule.
+H<sub>3</sub>O<sup>+</sup> is
+a simplified notation to represent this result. Similarly, the
+A<sup>–</sup>(aq) 
+ion is solvated by several water molecules. <link target-id="eqn1"/> is referred to as 
+<term>acid ionization</term>.</para><para id="id6504439"><link target-id="eqn1"/>
+implies that a 0.1 M solution of the acid
+HA
+in water should produce
+H<sub>3</sub>O<sup>+</sup>
+ions in solution with a concentration of 0.1M. In fact, the
+concentration of
+H<sub>3</sub>O<sup>+</sup>
+ions,
+[H<sub>3</sub>O<sup>+</sup>],
+can be measured by a variety of techniques. Chemists commonly use a
+measure of the
+H<sub>3</sub>O<sup>+</sup>
+ion concentration called the
+pH, defined
+by:</para><para id="id6516568"><m:math display="block"><m:apply><m:eq/><m:ci>pH</m:ci><m:apply><m:minus/><m:apply><m:log/><m:ci><m:mrow><m:mo>[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>]</m:mo></m:mrow></m:ci></m:apply></m:apply></m:apply></m:math></para><para id="id6516573">We now observe the concentration
+[H<sub>3</sub>O<sup>+</sup>]
+produced by dissolving a variety of acids in solution at a
+concentration of 0.1 M, and the results are tabulated in <link target-id="table1"/>.</para><table id="table1" summary="TABLE"><title>H3O+ pH for 0.1 M Acid Solutions</title>
+<tgroup cols="3"><thead>
+<row>
+<entry>Acid</entry>
+<entry>
+[H<sub>3</sub>O<sup>+</sup>]
+(M)</entry>
+<entry>pH</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>H<sub>2</sub>SO<sub>4</sub></entry>
+<entry>0.1</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry>HNO<sub>3</sub></entry>
+<entry>0.1</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry>HCl</entry>
+<entry>0.1</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry>HBr</entry>
+<entry>0.1</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry>HI</entry>
+<entry>0.1</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry>HClO<sub>4</sub></entry>
+<entry>0.1</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry>HClO<sub>3</sub></entry>
+<entry>0.1</entry>
+<entry>1</entry>
+</row>
+<row>
+<entry>HNO<sub>2</sub></entry>
+<entry>6.2 × 10<sup>–3</sup></entry>
+<entry>2.2</entry>
+</row>
+<row>
+<entry>HCN</entry>
+<entry>7 × 10<sup>–6</sup></entry>
+<entry>5.1</entry>
+</row>
+<row>
+<entry>HIO</entry>
+<entry>1 × 10<sup>–6</sup></entry>
+<entry>5.8</entry>
+</row>
+<row>
+<entry>HF</entry>
+<entry>5.5 × 10<sup>–3</sup></entry>
+<entry>2.3</entry>
+</row>
+<row>
+<entry>HOCN</entry>
+<entry>5.5 × 10<sup>–3</sup></entry>
+<entry>2.3</entry>
+</row>
+<row>
+<entry>HClO<sub>2</sub></entry>
+<entry>2.8 × 10<sup>–2</sup></entry>
+<entry>1.6</entry>
+</row>
+<row>
+<entry>CH<sub>3</sub>COOH
+(acetic acid)</entry>
+<entry>1.3 × 10<sup>–3</sup></entry>
+<entry>2.9</entry>
+</row>
+<row>
+<entry>CH<sub>3</sub>CH<sub>2</sub>COOH
+(propionic acid)</entry>
+<entry>1.1 × 10<sup>–3</sup></entry>
+<entry>2.9</entry>
+</row>
+</tbody>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tgroup>
+</table><para id="id4277459">Note that there are several acids listed for
+which
+[H<sub>3</sub>O<sup>+</sup>] = 0.1 M,
+and
+pH.
+This shows that, for these acids, the acid ionization is complete:
+essentially every acid molecule is ionized in the solution
+according to <link target-id="eqn1"/>. However,
+there are other acids listed for which
+H<sub>3</sub>O<sup>+</sup>
+is considerably less than 0.1M and the pH is considerably greater
+than 1. For each of these acids, therefore, not all of the acid
+molecules ionize according to <link target-id="eqn1"/>. In fact, it is clear in <link target-id="table1"/> that in these acids the vast
+majority of the acid molecules do not ionize, and only a small
+percentage does ionize.</para><para id="id4308791">From these observations, we distinguish two
+classes of acids: 
+<term>strong acids</term> and 
+<term>weak acids</term>. Strong acids are those for which nearly
+100% of the acid molecules ionize, whereas weak acids are those for
+which only a small percentage of molecules ionize. There are seven
+strong acids listed in <link target-id="table1"/>.
+From many observations, it is possible to determine that these
+seven acids are the only commonly observed strong acids. The vast
+majority of all substances with acidic properties are weak acids.
+We seek to characterize weak acid ionization quantitatively and to
+determine what the differences in molecular properties are between
+strong acids and weak acids.</para>
+</section>
+<section id="id6197875">
+<title>Observation 2: Percent Ionization in Weak Acids</title>
+<para id="id4934568"><link target-id="table1"/>
+shows that the pH of 0.1 M acid solutions varies from one weak acid
+to another. If we dissolve 0.1 moles of acid in a 1.0 L solution,
+the fraction of those acid molecules which will ionize varies from
+weak acid to weak acid. For a few weak acids, using the data in
+<link target-id="table1"/> we calculate the
+percentage of ionized acid molecules in 0.1 M acid solutions in
+<link target-id="table2"/>.</para><table id="table2" summary="TABLE"><title>Percent Ionization of 0.1 M Acid Solutions</title>
+<tgroup cols="3"><thead>
+<row>
+<entry>Acid</entry>
+<entry>[H<sub>3</sub>O<sup>+</sup>](M)</entry>
+<entry>% ionization</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>HNO<sub>2</sub></entry>
+<entry>6.2 × 10<sup>–3</sup></entry>
+<entry>6.2%</entry>
+</row>
+<row>
+<entry>HCN</entry>
+<entry>7 × 10<sup>–6</sup></entry>
+<entry>0.007%</entry>
+</row>
+<row>
+<entry>HIO</entry>
+<entry>1 × 10<sup>–6</sup></entry>
+<entry>0.001%</entry>
+</row>
+<row>
+<entry>HF</entry>
+<entry>5.5 × 10<sup>–3</sup></entry>
+<entry>5.5%</entry>
+</row>
+<row>
+<entry>HOCN</entry>
+<entry>5.5 × 10<sup>–3</sup></entry>
+<entry>5.5%</entry>
+</row>
+<row>
+<entry>HClO<sub>2</sub></entry>
+<entry>2.8 × 10<sup>–2</sup></entry>
+<entry>28.2%</entry>
+</row>
+<row>
+<entry>CH<sub>3</sub>COOH (acetic acid)</entry>
+<entry>1.3 × 10<sup>–3</sup></entry>
+<entry>1.3%</entry>
+</row>
+<row>
+<entry>CH<sub>3</sub>CH<sub>2</sub>COOH (propionic acid)</entry>
+<entry>1.1 × 10<sup>–3</sup></entry>
+<entry>1.1%</entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup>
+</table><para id="id6652712">We might be tempted to conclude from <link target-id="table2"/> that we can characterize the
+strength of each acid by the percent ionization of acid molecules
+in solution. However, before doing so, we observe the pH of a
+single acid, nitrous acid, in solution as a function of the
+concentration of the acid.</para>
+<equation id="eqn2"><m:math><m:mrow><m:mtext>H</m:mtext><m:mtext>N</m:mtext><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo><m:mo>→</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:mtext>N</m:mtext><m:msubsup><m:mtext>O</m:mtext><m:mn>2</m:mn><m:mo>-</m:mo></m:msubsup><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo></m:mrow></m:math></equation><para id="id4154468">In this case, "concentration of the
+acid" refers to the number of moles of acid that we dissolved
+per liter of water. Our observations are listed in <link target-id="table3"/>, which gives
+[H<sub>3</sub>O<sup>+</sup>],
+pH, and percent ionization as a function of nitrous acid
+concentration.</para><table id="table3" summary="table"><title>% Ionization of Nitrous Acid</title>
+<tgroup cols="4"><thead>
+<row>
+<entry>
+<m:math><m:msub><m:mi>c</m:mi><m:mn>0</m:mn></m:msub></m:math>
+(M)</entry>
+<entry>
+<m:math><m:mrow><m:mo>[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>]</m:mo></m:mrow></m:math></entry>
+<entry>pH</entry>
+<entry>% Ionization</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>0.50</entry>
+<entry><m:math><m:cn type="e-notation">1.7<m:sep/>-2</m:cn></m:math></entry>
+<entry>1.8</entry>
+<entry>3.3%</entry>
+</row>
+<row>
+<entry>0.20</entry>
+<entry><m:math><m:cn type="e-notation">1.0<m:sep/>-2</m:cn></m:math></entry>
+<entry>2.0</entry>
+<entry>5.1%</entry>
+</row>
+<row>
+<entry>0.10</entry>
+<entry><m:math><m:cn type="e-notation">7.0<m:sep/>-3</m:cn></m:math></entry>
+<entry>2.2</entry>
+<entry>7.0%</entry>
+</row>
+<row>
+<entry>0.050</entry>
+<entry><m:math><m:cn type="e-notation">4.8<m:sep/>-3</m:cn></m:math></entry>
+<entry>2.3</entry>
+<entry>9.7%</entry>
+</row>
+<row>
+<entry>0.020</entry>
+<entry><m:math><m:cn type="e-notation">2.9<m:sep/>-3</m:cn></m:math></entry>
+<entry>2.5</entry>
+<entry>14.7%</entry>
+</row>
+<row>
+<entry>0.010</entry>
+<entry><m:math><m:cn type="e-notation">2.0<m:sep/>-3</m:cn></m:math></entry>
+<entry>2.7</entry>
+<entry>20.0%</entry>
+</row>
+<row>
+<entry>0.005</entry>
+<entry><m:math><m:cn type="e-notation">1.3<m:sep/>-3</m:cn></m:math></entry>
+<entry>2.9</entry>
+<entry>26.7%</entry>
+</row>
+<row>
+<entry>0.001</entry>
+<entry><m:math><m:cn type="e-notation">4.9<m:sep/>-4</m:cn></m:math></entry>
+<entry>3.3</entry>
+<entry>49.1%</entry>
+</row>
+<row>
+<entry>0.0005</entry>
+<entry><m:math><m:cn type="e-notation">3.0<m:sep/>-4</m:cn></m:math></entry>
+<entry>3.5</entry>
+<entry>60.8%</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="id6647456">Surprisingly, perhaps, the percent ionization
+varies considerably as a function of the concentration of the
+nitrous acid. We recall that this means that the fraction of
+molecules which ionize, according to <link target-id="eqn2"/>, depends on how many acid molecules
+there are per liter of solution. Since some but not all of the acid
+molecules are ionized, this means that nitrous acid molecules are
+present in solution at the same time as the negative nitrite ions
+and the positive hydrogen ions. Recalling our observation of
+equilibrium in gas phase reactions, we can conclude that <link target-id="eqn2"/> achieves equilibrium for each
+concentration of the nitrous acid.</para>
+<para id="id6647470">Since we know that gas phase reactions come to
+equilibrium under conditions determined by the equilibrium
+constant, we might speculate that the same is true of reactions in
+aqueous solution, including acid ionization. We therefore define an
+analogy to the gas phase reaction equilibrium constant. In this
+case, we would not be interested in the pressures of the
+components, since the reactants and products are all in solution.
+Instead, we try a function composed of the equilibrium
+concentrations:</para>
+
+<equation id="eqn3"><m:math><m:apply><m:eq/>
+<m:ci>K</m:ci>
+<m:apply><m:divide/>
+<m:apply><m:times/>
+<m:ci><m:mrow><m:mo>[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>]</m:mo></m:mrow></m:ci>
+<m:ci><m:mrow><m:mo>[</m:mo><m:mtext>N</m:mtext><m:msubsup><m:mtext>O</m:mtext><m:mn>2</m:mn><m:mo>-</m:mo></m:msubsup><m:mo>]</m:mo></m:mrow></m:ci></m:apply>
+<m:apply><m:times/>
+<m:ci><m:mrow><m:mo>[</m:mo><m:mtext>H</m:mtext><m:mtext>N</m:mtext><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo>]</m:mo></m:mrow></m:ci>
+<m:ci><m:mrow><m:mo>[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>]</m:mo></m:mrow></m:ci>
+</m:apply></m:apply></m:apply>
+</m:math>
+</equation><para id="id4949521">The concentrations at equilibrium can be
+calculated from the data in <link target-id="table3"/> for nitrous acid.
+[H<sub>3</sub>O<sup>+</sup>]
+is listed and
+[NO<sub>2</sub><sup>–</sup>]=[H<sub>3</sub>O<sup>+</sup>].
+Furthermore, if
+c<sub>0</sub>
+is the initial concentration of the acid defined by the number of
+moles of acid dissolved in solution per liter of solution, then
+HA = c<sub>0</sub> – [H<sub>3</sub>O<sup>+</sup>].
+Note that the contribution of
+[H<sub>2</sub>O(l)]
+to the value of the function K is simply a
+constant. This is because the "concentration" of water
+in the solution is simply the molar density of water,
+<m:math><m:apply><m:eq/><m:apply><m:divide/><m:ci><m:msub><m:mi>n</m:mi><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext></m:mrow></m:msub></m:ci><m:ci>V</m:ci></m:apply><m:apply><m:times/><m:cn>55.5</m:cn><m:ci>M</m:ci></m:apply></m:apply></m:math>,
+which is not affected by the presence or absence of solute. All of
+the relevant concentrations, along with the function in <link target-id="eqn3"/> are calculated and tabulated in
+<link target-id="table4"/>.</para><table id="table4" summary="TABLE"><title>Equilibrium Concentrations and K for Nitrous Acid</title>
+<tgroup cols="5"><thead>
+<row>
+<entry>c<sub>0</sub> (M)</entry>
+<entry>[H<sub>3</sub>O<sup>+</sup>]</entry>
+<entry>[NO<sub>2</sub><sup>–</sup>]</entry>
+<entry>[HNO<sub>2</sub>]</entry>
+<entry>K</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>0.50</entry>
+<entry>1.7 × 10<sup>–2</sup></entry>
+<entry>1.7 × 10<sup>–2</sup></entry>
+<entry>0.48</entry>
+<entry>1.0 × 10<sup>–5</sup></entry>
+</row>
+<row>
+<entry>0.20</entry>
+<entry>1.0 × 10<sup>–2</sup></entry>
+<entry>1.0 × 10<sup>–2</sup></entry>
+<entry>0.19</entry>
+<entry>9.9 × 10<sup>–6</sup></entry>
+</row>
+<row>
+<entry>0.10</entry>
+<entry>7.0 × 10<sup>–3</sup></entry>
+<entry>7.0 × 10<sup>–3</sup></entry>
+<entry>9.3 × 10<sup>–2</sup></entry>
+<entry>9.6 × 10<sup>–6</sup></entry>
+</row>
+<row>
+<entry>0.050</entry>
+<entry>4.8 × 10<sup>–3</sup></entry>
+<entry>4.8 × 10<sup>–3</sup></entry>
+<entry>4.5 × 10<sup>–2</sup></entry>
+<entry>9.4 × 10<sup>–6</sup></entry>
+</row>
+<row>
+<entry>0.020</entry>
+<entry>2.9 × 10<sup>–3</sup></entry>
+<entry>2.9 × 10<sup>–3</sup></entry>
+<entry>4.5 × 10<sup>–2</sup></entry>
+<entry>9.4 × 10<sup>–6</sup></entry>
+</row>
+<row>
+<entry>0.010</entry>
+<entry>2.0 × 10<sup>–3</sup></entry>
+<entry>2.0 × 10<sup>–3</sup></entry>
+<entry>8.0 × 10<sup>–3</sup></entry>
+<entry>8.9 × 10<sup>–6</sup></entry>
+</row>
+<row>
+<entry>0.005</entry>
+<entry>1.3 × 10<sup>–3</sup></entry>
+<entry>1.3 × 10<sup>–3</sup></entry>
+<entry>3.6 × 10<sup>–3</sup></entry>
+<entry>8.8 × 10<sup>–6</sup></entry>
+</row>
+<row>
+<entry>0.001</entry>
+<entry>4.9 × 10<sup>–4</sup></entry>
+<entry>4.9 × 10<sup>–4</sup></entry>
+<entry>5.1 × 10<sup>–4</sup></entry>
+<entry>8.5 × 10<sup>–6</sup></entry>
+</row>
+<row>
+<entry>0.0005</entry>
+<entry>3.0 × 10<sup>–4</sup></entry>
+<entry>3.0 × 10<sup>–4</sup></entry>
+<entry>2.0 × 10<sup>–4</sup></entry>
+<entry>8.5 × 10<sup>–6</sup></entry>
+</row>
+</tbody>
+
+
+
+
+</tgroup>
+</table><para id="id4422451">We note that the function
+K in <link target-id="eqn3"/> is approximately, though only
+approximately, the same for all conditions analyzed in <link target-id="table3"/>. Variation of the concentration by
+a factor of 1000 produces a change in K of only 10%
+to 15%. Hence, we can regard the function K as a
+constant which approximately describes the acid ionization
+equilibrium for nitrous acid. By convention, chemists omit the
+constant concentration of water from the equilibrium expression,
+resulting in the 
+<term>acid ionization equilibrium constant</term>,
+K<sub>a</sub>,
+defined as:</para><equation id="eqn4"><m:math><m:apply><m:eq/>
+<m:ci><m:msub><m:mi>K</m:mi><m:mi>a</m:mi></m:msub></m:ci>
+<m:apply><m:divide/>
+<m:apply><m:times/>
+<m:ci><m:mrow><m:mo>[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>]</m:mo></m:mrow></m:ci>
+<m:ci><m:mrow><m:mo>[</m:mo><m:mtext>N</m:mtext><m:msubsup><m:mtext>O</m:mtext><m:mn>2</m:mn><m:mo>-</m:mo></m:msubsup><m:mo>]</m:mo></m:mrow></m:ci></m:apply>
+<m:ci><m:mrow><m:mo>[</m:mo><m:mtext>H</m:mtext><m:mtext>N</m:mtext><m:msub><m:mtext>O</m:mtext><m:mn>2</m:mn></m:msub><m:mo>]</m:mo></m:mrow></m:ci>
+</m:apply></m:apply>
+</m:math>
+</equation><para id="id4175660">From an average of the data in <link target-id="table4"/>, we can calculate that, at
+25°C for nitrous acid,
+K<sub>a</sub> = 5 × 10 <sup>–4</sup>.
+Acid ionization constants for the other weak acids in <link target-id="table2"/> are listed in <link target-id="table5"/>.</para><table id="table5" summary="table"><title>Weak Acid Ionization Constants, Ka and pKa</title>
+<tgroup cols="3"><thead>
+<row>
+<entry>Acid</entry>
+<entry>K<sub>a</sub></entry>
+<entry>pK<sub>a</sub></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>HNO<sub>2</sub></entry>
+<entry>5 × 10<sup>–4</sup></entry>
+<entry>3.3</entry>
+</row>
+<row>
+<entry>HCN</entry>
+<entry>4.9 × 10<sup>–10</sup></entry>
+<entry>9.3</entry>
+</row>
+<row>
+<entry>HIO</entry>
+<entry>2.3 × 10<sup>–11</sup></entry>
+<entry>10.6</entry>
+</row>
+<row>
+<entry>HF</entry>
+<entry>3.5 × 10<sup>–4</sup></entry>
+<entry>3.4</entry>
+</row>
+<row>
+<entry>HOCN</entry>
+<entry>3.5 × 10<sup>–4</sup></entry>
+<entry>3.4</entry>
+</row>
+<row>
+<entry>HClO<sub>2</sub></entry>
+<entry>1.1 × 10<sup>–2</sup></entry>
+<entry>2.0</entry>
+</row>
+<row>
+<entry>CH<sub>3</sub>COOH(acetic acid)</entry>
+<entry>1.7 × 10<sup>–5</sup></entry>
+<entry>4.8</entry>
+</row>
+<row>
+<entry>CH<sub>3</sub>CH<sub>2</sub>COOH(propionic acid)</entry>
+<entry>1.4 × 10<sup>–5</sup></entry>
+<entry>4.9</entry>
+</row>
+</tbody>
+
+
+
+
+
+</tgroup>
+</table><para id="id6470677">We make two final notes about the results in
+<link target-id="table5"/>. First, it is clear the
+larger the value of
+K<sub>a</sub>,
+the stronger the acid. That is, when
+K<sub>a</sub>
+is a larger number, the percent ionization of the acid is larger,
+and vice versa. Second, the values of
+K<sub>a</sub>
+very over many orders of magnitude. As such, it is often convenient
+to define the quanity
+pK<sub>a</sub>,
+analogous to pH, for purposes of comparing acid strengths:</para><equation id="eqn5"><m:math><m:apply><m:eq/><m:ci><m:mrow><m:mi>p</m:mi><m:msub><m:mi>K</m:mi><m:mi>a</m:mi></m:msub></m:mrow></m:ci><m:apply><m:minus/><m:apply><m:log/><m:ci><m:msub><m:mi>K</m:mi><m:mi>a</m:mi></m:msub></m:ci></m:apply></m:apply></m:apply></m:math></equation>
+<para id="id4326057">The value of
+pK<sub>a</sub>
+for each acid is also listed in <link target-id="table5"/>. Note that a small value of
+pK<sub>a</sub>
+implies a large value of
+K<sub>a</sub>
+and thus a stronger acid. Weaker acids have larger values of
+pK<sub>a</sub>.
+K<sub>a</sub>
+and
+pK<sub>a</sub>
+thus give a simple quantitative comparison of the strength of weak
+acids.</para></section>
+<section id="id4255485">
+<title>Observation 3: Autoionization of Water</title>
+<para id="id4325350">Since we have the ability to measure pH for
+acid solutions, we can measure pH for pure water as well. It might
+seem that this would make no sense, as we would expect
+[H<sub>3</sub>O<sup>+</sup>]
+to equal zero exactly in pure water. Surprisingly, this is
+incorrect: a measurement on pure water at 25°C yields
+pH,
+so that
+[H<sub>3</sub>O<sup>+</sup>] = 1.0 × 10<sup>–7</sup> M.
+There can be only one possible source for these ions: water
+molecules. The process</para><equation id="eqn6"><m:math><m:mrow><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo><m:mo>→</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:mtext>O</m:mtext><m:msup><m:mtext>H</m:mtext><m:mo>-</m:mo></m:msup>
+<m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo></m:mrow></m:math></equation><para id="id6539821">is referred to as the 
+<term>autoionization</term> of water. Note that, in this reaction,
+some water molecules behave as acid, donating protons, while other
+water molecules behave as base, accepting protons.</para>
+<para id="id4196908">Since at equilibrium
+[H<sub>3</sub>O<sup>+</sup>] = 1.0 × 10<sup>–7</sup> M,
+it must also be true that
+[OH<sup>–</sup>] = 1.0 × 10<sup>–7</sup> M .
+We can write the equilibrium constant for <link target-id="eqn6"/>, following our previous convention
+of omitting the pure water from the expression, and we find that,
+at 25°C,</para><equation id="eqn7"><m:math><m:apply><m:eq/><m:ci><m:msub><m:mi>K</m:mi><m:mi>w</m:mi></m:msub></m:ci>
+<m:apply><m:times/><m:ci><m:mrow><m:mo>[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>]</m:mo></m:mrow></m:ci><m:ci><m:mrow><m:mo>[</m:mo><m:mtext>O</m:mtext><m:msup><m:mtext>H</m:mtext><m:mo>-</m:mo></m:msup><m:mo>]</m:mo></m:mrow></m:ci></m:apply><m:apply><m:times/><m:cn type="e-notation">1.0<m:sep/>-14</m:cn><m:ci>M</m:ci></m:apply></m:apply></m:math></equation><para id="id4385688">(In this case, the subscript "w"
+refers to "water".)</para>
+<para id="id4547285"><link target-id="eqn6"/> occurs
+in pure water but must also occur when ions are dissolved in
+aqueous solutions. This includes the presence of acids ionized in
+solution. For example, we consider a solution of 0.1M acetic acid.
+Measurements show that, in this solution
+[H<sub>3</sub>O<sup>+</sup>] = 1.3 × 10<sup>–3</sup> M    
+and
+[OH<sup>–</sup>] = 7.7 × 10<sup>–12</sup> M.
+We note two things from this observation: first, the value of
+[OH<sup>–</sup>]
+is considerably less than in pure water; second, the autoionization
+equilibrium constant remains the same at 1.0 × 10<sup>–14</sup>.
+From these notes, we can conclude that the autoionization
+equilibrium of water occurs in acid solution, but the extent of
+autoionization is suppressed by the presence of the acid in
+solution.</para><para id="id4406060">We consider a final note on the autoionization
+of water. The pH of pure water is 7 at 25°C. Adding any acid
+to pure water, no matter how weak the acid, must increase
+[H<sub>3</sub>O<sup>+</sup>],
+thus producing a pH below 7. As such, we can conclude that, for all
+acid solutions, pH is less than 7, or on the other hand, any
+solution with pH less than 7 is acidic.</para></section>
+<section id="id4973082">
+<title>Observation 4: Base Ionization, Neutralization and Hydrolysis
+of Salts</title>
+<para id="id4096773">We have not yet examined the behavior of base
+molecules in solution, nor have we compared the relative strengths
+of bases. We have defined a base molecule as one which accepts a
+positive hydrogen ion from another molecule. One of the most common
+examples is ammonia,
+NH<sub>3</sub>.
+When ammonia is dissolved in aqueous solution, the following
+reaction occurs:</para><equation id="eqn8"><m:math><m:mrow><m:mtext>N</m:mtext><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo><m:mo>→</m:mo><m:mtext>N</m:mtext><m:msubsup><m:mtext>H</m:mtext><m:mn>4</m:mn><m:mo>+</m:mo></m:msubsup><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo><m:mo>+</m:mo><m:mtext>O</m:mtext><m:msup><m:mtext>H</m:mtext><m:mo>-</m:mo></m:msup><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo></m:mrow></m:math></equation><para id="id4601020">Due to the lone pair of electrons on the
+highly electronegative N atom,
+NH<sub>3</sub> 
+molecules will readily attach a free hydrogen ion forming the
+ammonium ion
+NH<sub>4</sub><sup>+</sup>.
+When we measure the concentration of
+OH<sup>–</sup>
+for various initial concentration of
+NH<sub>3</sub>
+in water, we observe the results in <link target-id="table6"/>. We should anticipate that a base
+ionization equilibrium constant might exist comparable to the acid
+ionization equilibrium constant, and in <link target-id="table6"/>, we have also calculated the value
+of the function
+<m:math><m:msub><m:mi>K</m:mi><m:mi>b</m:mi></m:msub></m:math>
+defined as:</para><equation id="eqn9"><m:math>
+<m:apply><m:eq/>
+<m:ci><m:msub><m:mi>K</m:mi><m:mi>b</m:mi></m:msub></m:ci>
+<m:apply><m:divide/>
+<m:apply><m:times/>
+<m:ci><m:mrow><m:mo>[</m:mo><m:mtext>N</m:mtext><m:msubsup><m:mtext>H</m:mtext><m:mn>4</m:mn><m:mo>+</m:mo></m:msubsup><m:mo>]</m:mo></m:mrow></m:ci>
+<m:ci><m:mrow><m:mo>[</m:mo><m:mtext>O</m:mtext><m:msup><m:mtext>H</m:mtext><m:mo>-</m:mo></m:msup><m:mo>]</m:mo></m:mrow></m:ci></m:apply>
+<m:ci><m:mrow><m:mo>[</m:mo><m:mtext>N</m:mtext><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:mo>]</m:mo></m:mrow></m:ci>
+</m:apply></m:apply>
+</m:math>
+</equation><table id="table6" summary="table"><title>Equilibrium Concentrations and Kb for Ammonia</title>
+<tgroup cols="4"><thead>
+<row>
+<entry>C<sub>0</sub>(M)</entry>
+<entry>[OH<sup>–</sup>]</entry>
+<entry>K<sub>b</sub></entry>
+<entry>pH</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>0.50</entry>
+<entry>3.2 × 10<sup>–3</sup></entry>
+<entry>2.0 × 10<sup>–5</sup></entry>
+<entry>11.5</entry>
+</row>
+<row>
+<entry>0.20</entry>
+<entry>2.0 × 10<sup>–3</sup></entry>
+<entry>2.0 × 10<sup>–5</sup></entry>
+<entry>11.3</entry>
+</row>
+<row>
+<entry>0.10</entry>
+<entry>1.4 × 10<sup>–3</sup></entry>
+<entry>2.0 × 10<sup>–5</sup></entry>
+<entry>11.1</entry>
+</row>
+<row>
+<entry>0.050</entry>
+<entry>9.7 × 10<sup>–4</sup></entry>
+<entry>1.9 × 10<sup>–5</sup></entry>
+<entry>11.0</entry>
+</row>
+<row>
+<entry>0.020</entry>
+<entry>6.0 × 10<sup>–4</sup></entry>
+<entry>1.9 × 10<sup>–5</sup></entry>
+<entry>10.8</entry>
+</row>
+<row>
+<entry>0.010</entry>
+<entry>4.2 × 10<sup>–4</sup></entry>
+<entry>1.9 × 10<sup>–5</sup></entry>
+<entry>10.6</entry>
+</row>
+<row>
+<entry>0.005</entry>
+<entry>3.0 × 10<sup>–4</sup></entry>
+<entry>1.9 × 10<sup>–5</sup></entry>
+<entry>10.5</entry>
+</row>
+<row>
+<entry>0.001</entry>
+<entry>1.3 × 10<sup>–4</sup></entry>
+<entry>1.8 × 10<sup>–5</sup>&gt;</entry>
+<entry>10.1</entry>
+</row>
+<row>
+<entry>0.0005</entry>
+<entry>8.7 × 10<sup>–5</sup></entry>
+<entry>1.8 × 10<sup>–5</sup></entry>
+<entry>9.9</entry>
+</row>
+</tbody>
+
+
+
+</tgroup>
+</table><para id="id4365763">Given that we have dissolved a base in pure
+water, we might be surprised to discover the presence of positive
+hydrogen ions,
+H<sub>3</sub>O<sup>+</sup>,
+in solution, but a measurement of the pH for each of the solutions
+reveals small amounts. The pH for each solution is also listed in
+<link target-id="table6"/>. The source of these
+H<sub>3</sub>O<sup>+</sup>
+ions must be the autoionization of water. Note, however, that in
+each case in basic solution, the concentration of
+H<sub>3</sub>O<sup>+</sup>
+ions is less than that in pure water. Hence, the presence of the
+base in solution has suppressed the autoionization. Because of
+this, in each case the pH of a basic solution is greater than
+7.</para><para id="id4977545">Base ionization is therefore quite analogous
+to acid ionization observed earlier. We now consider a comparison
+of the strength of an acid to the strength of a base. To do so, we
+consider a class of reactions called "neutralization
+reactions" which occur when we mix an acid solution with a
+base solution. Since the acid donates protons and the base accepts
+protons, we might expect, when mixing acid and base, to achieve a
+solution which is no longer acidic or basic. For example, if we mix
+together equal volumes of 0.1M
+HCl(aq)
+and 0.1M
+NaOH(aq),
+the following reaction occurs:</para><equation id="eqn10"><m:math><m:mrow>
+<m:mtext>H</m:mtext><m:mtext>Cl</m:mtext><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo><m:mo>+</m:mo>
+<m:mtext>Na</m:mtext><m:mtext>O</m:mtext><m:mtext>H</m:mtext><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo><m:mo>→</m:mo>
+<m:msup><m:mtext>Na</m:mtext><m:mo>+</m:mo></m:msup><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo><m:mo>+</m:mo>
+<m:msup><m:mtext>Cl</m:mtext><m:mo>-</m:mo></m:msup><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo><m:mo>+</m:mo>
+<m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo>
+</m:mrow></m:math></equation><para id="id6635619">The resultant solution is simply a salt
+solution with
+NaCl
+dissolved in water. This solution has neither acidic nor basic
+properties, and the pH is 7; hence the acid and base have
+neutralized each other. In this case, we have mixed together a
+strong acid with a strong base. Since both are strong and since we
+mixed equal molar quantities of each, the neutralization reaction
+is essentially complete.</para><para id="id4176861">We next consider mixing together a weak acid
+solution with a strong base solution, again with equal molar
+quantities of acid and base. As an example, we mix 100ml of 0.1M
+acetic acid
+(HA)
+solution with 100ml of 0.1M sodium hydroxide. In this discussion,
+we will abbreviate the acetic acid molecular formula
+CH<sub>3</sub>COOH
+as
+HA
+and the acetate ion
+CH<sub>3</sub>COO<sup>–</sup>
+as
+A<sup>–</sup>.
+The reaction of
+HA
+and
+NaOH
+is:</para><equation id="eqn11"><m:math><m:mrow>
+<m:mtext>H</m:mtext><m:mi>A</m:mi><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo><m:mo>+</m:mo>
+<m:mtext>Na</m:mtext><m:mtext>O</m:mtext><m:mtext>H</m:mtext><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo><m:mo>→</m:mo>
+<m:msup><m:mtext>Na</m:mtext><m:mo>+</m:mo></m:msup><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo><m:mo>+</m:mo>
+<m:msup><m:mi>A</m:mi><m:mo>-</m:mo></m:msup><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo><m:mo>+</m:mo>
+<m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo>
+</m:mrow></m:math></equation><para id="id4507309"><m:math><m:mrow><m:msup><m:mi>A</m:mi><m:mo>-</m:mo></m:msup><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo></m:mrow></m:math>
+is the acetate ion in solution, formed when an acetic acid molecule
+donates the positive hydrogen ion. We have thus created a salt
+solution again, in this case of sodium acetate in water. Note that
+the volume of the combined solution is 200ml, so the concentration
+of sodium acetate
+(NaA)
+in solution is 0.050M.</para><para id="id4335544">Unlike our previous
+NaCl
+salt solution, a measurement in this case reveals that the pH of
+the product salt solution is 9.4, so the solution is basic. Thus,
+mixing equal molar quantities of strong base with weak acid
+produces a basic solution. In essence, the weak acid does not fully
+neutralize the strong base. To understand this, we examine the
+behavior of sodium acetate in solution. Since the pH is greater
+than 7, then there is an excess of
+OH<sub>–</sub>
+ions in solution relative to pure water. These ions must have come
+from the reaction of sodium acetate with the water. Therefore, the
+negative acetate ions in solution must behave as a base, accepting
+positive hydrogen ions:</para><equation id="eqn12"><m:math><m:mrow>
+<m:msup><m:mi>A</m:mi><m:mo>-</m:mo></m:msup><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo><m:mo>+</m:mo>
+<m:msub><m:mtext>H</m:mtext><m:mn>2</m:mn></m:msub><m:mtext>O</m:mtext><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo><m:mo>→</m:mo>
+<m:mtext>H</m:mtext><m:mi>A</m:mi><m:mo>(</m:mo><m:mi>aq</m:mi><m:mo>)</m:mo><m:mo>+</m:mo>
+<m:mtext>O</m:mtext><m:msup><m:mtext>H</m:mtext><m:mo>-</m:mo></m:msup><m:mo>(</m:mo><m:mi>l</m:mi><m:mo>)</m:mo>
+</m:mrow></m:math></equation><para id="id4943024">The reaction of an ion with water to form
+either an acid or a base solution is referred to as 
+<term>hydrolysis</term>. From this example, the salt of a weak acid
+behaves as a base in water, resulting in a pH greater than
+7.</para>
+<para id="id2990889">To understand the extent to which the
+hydrolysis of the negative ion occurs, we need to know the
+equilibrium constant for this reaction. This turns out to be
+determined by the acid ionization constant for
+HA.
+To see this, we write the equilibrium constant for the hydrolysis
+of
+A<sup>–</sup>
+as</para><equation id="eqn13"><m:math>
+<m:apply><m:eq/>
+<m:ci><m:msub><m:mi>K</m:mi><m:mi>h</m:mi></m:msub></m:ci>
+<m:apply><m:divide/>
+<m:apply><m:times/>
+<m:ci><m:mrow><m:mo>[</m:mo><m:mtext>H</m:mtext><m:mi>A</m:mi><m:mo>]</m:mo></m:mrow></m:ci>
+<m:ci><m:mrow><m:mo>[</m:mo><m:mtext>O</m:mtext><m:msup><m:mtext>H</m:mtext><m:mo>-</m:mo></m:msup><m:mo>]</m:mo></m:mrow></m:ci></m:apply>
+<m:ci><m:mrow><m:mo>[</m:mo><m:msup><m:mi>A</m:mi><m:mo>-</m:mo></m:msup><m:mo>]</m:mo></m:mrow></m:ci>
+</m:apply></m:apply>
+</m:math>
+</equation><para id="id4507243">Multiplying numerator and denominator by
+[H<sub>3</sub>O<sup>+</sup>],
+we find that</para><equation id="eqn14"><m:math>
+<m:apply><m:eq/>
+<m:ci><m:msub><m:mi>K</m:mi><m:mi>h</m:mi></m:msub></m:ci>
+<m:apply><m:times/>
+<m:apply><m:divide/>
+<m:apply><m:times/>
+<m:ci><m:mrow><m:mo>[</m:mo><m:mtext>H</m:mtext><m:mi>A</m:mi><m:mo>]</m:mo></m:mrow></m:ci>
+<m:ci><m:mrow><m:mo>[</m:mo><m:mtext>O</m:mtext><m:msup><m:mtext>H</m:mtext><m:mo>-</m:mo></m:msup><m:mo>]</m:mo></m:mrow></m:ci></m:apply>
+<m:ci><m:mrow><m:mo>[</m:mo><m:msup><m:mi>A</m:mi><m:mo>-</m:mo></m:msup><m:mo>]</m:mo></m:mrow></m:ci>
+</m:apply>
+<m:apply><m:divide/>
+<m:ci><m:mrow><m:mo>[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>]</m:mo></m:mrow></m:ci>
+<m:ci><m:mrow><m:mo>[</m:mo><m:msub><m:mtext>H</m:mtext><m:mn>3</m:mn></m:msub><m:msup><m:mtext>O</m:mtext><m:mo>+</m:mo></m:msup><m:mo>]</m:mo></m:mrow></m:ci>
+</m:apply></m:apply>
+<m:apply><m:divide/>
+<m:ci><m:msub><m:mi>K</m:mi><m:mi>w</m:mi></m:msub></m:ci>
+<m:ci><m:msub><m:mi>K</m:mi><m:mi>a</m:mi></m:msub></m:ci>
+</m:apply></m:apply>
+</m:math>
+</equation><para id="id4584939">Therefore, for the hydrolysis of acetate ions
+in solution, K<sub>h</sub> = 5.8 × 10<sup>–10</sup>.
+This is fairly small, so the acetate ion is a very weak
+base.</para></section>
+<section id="obs5">
+<title>Observation 5: Acid strength and molecular properties</title>
+<para id="id4339700">We now have a fairly complete quantitative
+description of acid-base equilibrium. To complete our understanding
+of acid-base equilibrium, we need a predictive model which relates
+acid strength or base strength to molecular properties. In general,
+we expect that the strength of an acid is related either to the
+relative ease by which it can donate a hydrogen ion or by the
+relative stability of the remaining negative ion formed after the
+departure of the hydrogen ion.</para>
+<para id="id4604071">To begin, we note that there are three basic
+categories of acids which we have examined in this study. First,
+there are simple 
+<term>binary acids</term>: <list id="list1" list-type="labeled-item" display="inline">
+<item>HF</item>
+<item>HCl</item>
+<item>HBr</item>
+<item>HI</item></list>.
+Second, there are acids formed from main group elements combined
+with one or more oxygen atoms, such
+H<sub>2</sub>SO<sub>4</sub>
+or
+HNO<sub>3</sub>.
+These are called 
+<term>oxyacids</term>. Third, there are the 
+<term>carboxylic acids</term>, organic molecules which contain the
+carboxylic functional group in <link target-id="fig1"/>.</para><figure id="fig1"><media id="id1164743675499" alt=""><image src="../../media/fig1.png" mime-type="image/png"/><image for="pdf" src="../../media/fig1.eps" mime-type="application/postscript"/></media>
+      <caption>Carboxylic Functional Group</caption></figure><para id="id4183802">We consider first the simple binary acids.
+HCl,
+HBr,
+and
+HI
+are all strong acids, whereas
+HF
+is a weak acid. In comparing the experimental values of
+<m:math><m:mrow><m:mi>p</m:mi><m:msub><m:mi>K</m:mi><m:mi>a</m:mi></m:msub></m:mrow></m:math>
+values in <link target-id="table7"/>, we note that
+the acid strength increases in the order
+HF &lt; HCl &lt; HBr &lt; HI.
+This means that the hydrogen ion can more readily separate from the
+covalent bond with the halogen atom (X) as we move down the
+periodic table. This is reasonable, because the strength of the H-X
+bond also decreases as we move down the periodic table, as shown in
+<link target-id="table7"/>.</para><table id="table7" summary="table"><title>H-X Bond Strengths and pKa</title>
+<tgroup cols="3"><thead>
+<row>
+<entry/>
+<entry>pK<sub>a</sub></entry>
+<entry>Bond Energy
+(<m:math><m:apply><m:divide/><m:ci>kJ</m:ci><m:ci>mol</m:ci></m:apply></m:math>)</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>HF</entry>
+<entry>3.1</entry>
+<entry>567.7</entry>
+</row>
+<row>
+<entry>HCl</entry>
+<entry>-6.0</entry>
+<entry>431.6</entry>
+</row>
+<row>
+<entry>HBr</entry>
+<entry>-9.0</entry>
+<entry>365.9</entry>
+</row>
+<row>
+<entry>HI</entry>
+<entry>-9.5</entry>
+<entry>298.0</entry>
+</row>
+</tbody>
+
+
+</tgroup>
+</table><para id="id4296869">The decreasing strength of the H-X bond is
+primarily due to the increase is the size of the X atom as we move
+down the periodic table. We conclude that one factor which
+influences acidity is the strength of the H-X bond: a weaker bond
+produces a stronger acid, and vice versa.</para>
+<para id="id4248198">In the acids in the other two categories, the
+hydrogen atom which ionizes is attached directly to an oxygen atom.
+Thus, to understand acidity in these molecules, we must examine
+what the oxygen atom is in turn bonded to. It is very interesting
+to note that, in examining compounds like R-O-H, where R is an atom
+or group of atoms, we can get either acidic or basic properties.
+For examples,
+NaOH
+is a strong base, whereas
+HOCl
+is a weak acid. This means that, when
+NaOH
+ionizes in solution, the Na-O linkage ionizes, whereas when
+HOCl
+ionizes in solution, the H-O bond ionizes.</para><para id="id4560504">To understand this behavior, we compare the
+strength of the simple oxyacids
+HOI,
+HOBr,
+and
+HOCl.
+The
+<m:math><m:mrow><m:mi>p</m:mi><m:msub><m:mi>K</m:mi><m:mi>a</m:mi></m:msub></m:mrow></m:math>'s
+for these acids are found experimentally to be, respectively, 10.6,
+8.6, and 7.5. The acid strength for
+HOX
+increases as we move up the periodic table in the halogen group.
+This means that the H-O bond ionizes more readily when the oxygen
+atom is bonded to a more electronegative atom.</para><para id="id4570617">We can add to this observation by comparing
+the strengths of the acids
+HOCl,
+HOClO,
+HOClO<sub>2</sub>,
+and
+HOClO<sub>3</sub>.
+(Note that the molecular formulae are more commonly written as
+HClO,
+HClO<sub>2</sub>,
+HClO<sub>3</sub>,
+and
+HClO<sub>4</sub>.
+We have written them instead to emphasize the molecular structure.)
+The
+<m:math><m:mrow><m:mi>p</m:mi><m:msub><m:mi>K</m:mi><m:mi>a</m:mi></m:msub></m:mrow></m:math>'s
+of these acids are, respectively, 7.5, 2.0, -2.7, and -8.0.
+In each case, the molecule with more oxygen atoms on the central Cl
+atom is the stronger acid:
+HOClO
+is more acidic than
+HOCL,
+
+<foreign>etc</foreign>. A similar result is found in comparing the
+oxyacids of nitrogen.
+HONO<sub>2</sub>,
+nitric acid, is one of the strong acids, whereas
+HONO,
+nitrous acid, is a weak acid. Since oxygen atoms are very strongly
+electronegative, these trends add to our observation that
+increasing electronegativity of the attached atoms increases the
+ionization of the O-H bond.</para><para id="id4576537">Why would electronegativity play a role in
+acid strength? There are two conclusions we might draw. First, a
+greater electronegativity of the atom or atoms attached to the H-O
+in the oxyacid apparently results in a weaker H-O bond, which is
+thus more readily ionized. We know that an electronegative atom
+polarizes bonds by drawing the electrons in the molecule towards
+it. In this case, the Cl in
+HOCl
+and the Br in
+HOBr
+must polarize the H-O bond, weakening it and facilitating the
+ionization of the hydrogen. In comparing
+HOCl
+to
+HOClO,
+the added oxygen atom must increase the polarization of the H-O
+bond, thus weakening the bond further and increasing the extent of
+ionization.</para><para id="id4354530">A second conclusion has to do with the ion
+created by the acid ionization. The negative ion produced has a
+surplus electron, and the relative energy of this ion will depend
+on how readily that extra electron is attracted to the atoms of
+ion. The more electronegative those atoms are, the stronger is the
+attraction. Therefore, the
+OCl<sup>–</sup>
+ion can more readily accommodate the negative charge than can the
+OBr<sup>–</sup>
+ion. And the
+OClO<sup>–</sup>
+ion can more readily accommodate the negative charge than can the
+OCl<sup>–</sup>
+ion.</para><para id="id4505529">We conclude that the presence of strongly
+electronegative atoms in an acid increases the polarization of the
+H-O bond, thus facilitating ionization of the acid, and increases
+the attraction of the extra electron to the negative ion, thus
+stabilizing the negative ion. Both of these factors increase the
+acid strength. Chemists commonly use both of these conclusions in
+understanding and predicting relative acid strength.</para>
+<para id="id4279691">The relative acidity of carbon compounds is a
+major subject of organic chemistry, which we can only visit briefly
+here. In each of the carboxylic acids, the H-O group is attached to
+a carbonyl C=O group, which is in turn bonded to other atoms. The
+comparison we observe here is between carboxylic acid molecules,
+denoted as
+RCOOH,
+and other organic molecules containing the H-O group, such as
+alcohols denoted as
+ROH.
+(R is simply an atom or group of atoms attached to the functional
+group.) The former are obviously acids whereas the latter group
+contains molecules which are generally extremely weak acids. One
+interesting comparison is for the acid and alcohol when R is the
+benzene ring,
+C<sub>6</sub>H<sub>5</sub>.
+Benzoic acid,
+C<sub>6</sub>H<sub>5</sub>COOH,
+has
+<m:math><m:apply><m:eq/><m:ci><m:mrow><m:mi>p</m:mi><m:msub><m:mi>K</m:mi><m:mi>a</m:mi></m:msub></m:mrow></m:ci><m:cn>4.2</m:cn></m:apply></m:math>,
+whereas phenol,
+C<sub>6</sub>H<sub>5</sub>OH,
+has
+<m:math><m:apply><m:eq/><m:ci><m:mrow><m:mi>p</m:mi><m:msub><m:mi>K</m:mi><m:mi>a</m:mi></m:msub></m:mrow></m:ci><m:cn>9.9</m:cn></m:apply></m:math>.
+Thus, the presence of the doubly bonded oxygen atom on the carbon
+atom adjacent to the O-H clearly increases the acidity of the
+molecule, and thus increases ionization of the O-H bond.</para><para id="id6541380">This observation is quite reasonable in the
+context of our previous conclusion. Adding an electronegative
+oxygen atom in near proximity to the O-H bond both increases the
+polarization of the O-H bond and stabilizes the negative ion
+produced by the acid ionization. In addition to the
+electronegativity effect, carboxylate anions,
+RCOO<sup>–</sup>,
+exhibit resonance stabilization, as seen in <link target-id="fig2"/>.</para><figure id="fig2">
+	<media id="id1164736520155" alt=""><image src="../../media/fig2.png" mime-type="image/png"/><image for="pdf" src="../../media/fig2.eps" mime-type="application/postscript"/></media>
+      </figure>
+
+<para id="id4577087">The resonance results in a sharing of the
+negative charge over several atoms, thus stabilizing the negative
+ion. This is a major contributing factor in the acidity of
+carboxylic acids versus alcohols.</para>
+</section>
+<section id="id4618594"><title>Review and Discussion Questions</title><list id="eip-id1171282577797" list-type="enumerated" number-style="arabic"><item>
+Strong acids have a higher percent ionization
+than do weak acids. Why don't we use percent ionization as a
+measure of acid strength, rather than
+<m:math><m:msub><m:mi>K</m:mi><m:mi>a</m:mi></m:msub></m:math>?</item>
+
+<item>Using the data in <link target-id="table4"/> for nitrous acid, plot
+[H<sub>3</sub>O<sup>+</sup>]
+versus
+c<sub>0</sub>,
+the initial concentration of the acid, and versus
+[HNO<sub>2</sub>]
+the equilibrium concentration of the acid. On a second graph, plot
+[H<sub>3</sub>O<sup>+</sup>]<sup>2</sup>
+versus
+c<sub>0</sub>,
+the initial concentration of the acid, and versus
+[HNO<sub>2</sub>]
+the equilibrium concentration of the acid. Which of these results
+gives a straight line? Using the equilibrium constant expression,
+explain your answer.</item>
+
+<item>Using Le Châtelier's principle,
+explain why the concentration of
+[OH<sup>–</sup>]
+is much lower in acidic solution than it is in neutral
+solution.</item>
+
+<item>We considered mixing a strong base with a weak
+acid, but we did not consider mixing a strong acid with a weak
+acid. Consider mixing 0.1M
+HNO<sub>3</sub>
+and 0.1M
+HNO<sub>2</sub>.
+Predict the pH of the solution and the percent ionization of the
+nitrous acid. Rationalize your prediction using Le
+Châtelier's principle.</item>
+
+<item>Imagine taking a 0.5M solution of nitrous acid
+and slowing adding water to it. Looking at <link target-id="table3"/>, we see that, as the concentration
+of nitrous acid decreases, the percent ionization increases. By
+contrast,
+[H<sub>3</sub>O<sup>+</sup>]
+decreases. Rationalize these results using Le
+Châtelier's principle.</item>
+
+<item>We observed that mixing a strong acid and a
+strong base, in equal amounts and concentrations, produces a
+neutral solution, and that mixing a strong base with a weak acid,
+in equal amounts and concentrations, produces a basic solution.
+Imagine mixing a weak acid and a weak base, in equal amounts and
+concentrations. Predict whether the resulting solution will be
+acidic, basic, or neutral, and explain your prediction.</item>
+
+<item>Using the electronegativity arguments
+presented <link target-id="obs5">above</link>,
+explain why, in general, compounds like M-O-H are bases rather than
+acids, when M is a metal atom. Predict the relationship between the
+properties of the metal atom M and the strength of the base
+MOH.</item>
+
+<item>Ionization of sulfuric acid
+H<sub>2</sub>SO<sub>4</sub>
+produces
+HSO<sub>4</sub><sup>–</sup>,
+which is also an acid. However,
+HSO<sub>4</sub><sup>–</sup>
+is a much weaker acid than
+H<sub>2</sub>SO<sub>4</sub>.
+Using the conclusions from <link target-id="obs5">above</link>, explain why
+HSO<sub>4</sub><sup>–</sup>
+is a much weaker acid.</item>
+
+<item>Predict and explain the relative acid
+strengths of
+H<sub>2</sub>S
+and
+HCl.
+Predict and explain the relative acid strengths of
+H<sub>3</sub>PO<sub>4</sub>
+and
+H<sub>3</sub>AsO<sub>4</sub>.</item>
+
+<item>
+Using arguments from <link target-id="obs5">above</link>, predict and
+explain the relative acidity of <link target-id="fig3a">phenol</link> and <link target-id="fig3b">methanol</link>.
+ <figure id="fig3" orient="vertical">
+       <subfigure id="fig3a">
+	<title>Phenol</title>
+	<media id="id1164736688915" alt=""><image src="../../media/fig3a.png" mime-type="image/png"/><image for="pdf" src="../../media/fig3a.eps" mime-type="application/postscript"/></media>
+        </subfigure>
+       <subfigure id="fig3b">
+	<title>Methanol</title>
+	<media id="id1164743602437" alt=""><image src="../../media/fig3b.png" mime-type="image/png"/><image for="pdf" src="../../media/fig3b.eps" mime-type="application/postscript"/></media>
+        </subfigure>
+      </figure></item>
+</list></section></content>
+</document>

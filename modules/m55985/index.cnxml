@@ -1,0 +1,1027 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Bis2A 04.0 Energy and Thermodynamics v1.2</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m55985</md:content-id>
+  <md:title>Bis2A 04.0 Energy and Thermodynamics v1.2</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Define “energy”</item>
+<item>Explain the difference between kinetic and potential energy</item>
+<item>Discuss the concepts of free energy and activation energy</item>
+<item>Describe endergonic and exergonic reactions</item>
+</list></md:abstract>
+  <md:uuid>af3477ad-0b9b-498c-add0-5e96a5708e1d</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1165630431745">
+      <title>INTRODUCTION TO ENERGY</title><section id="eip-250"><para id="fs-id2195131"><term>Energy</term> is the ability to do <term>work</term>. Work is done when a force is applied to an object over a distance. 
+
+When an object is in motion, there is energy associated with that object. In the example of an airplane in flight, there is a great deal of energy associated with the motion of the airplane. This is because moving objects are capable of enacting a change, or doing work. Think of a wrecking ball. Even a slow-moving wrecking ball can do a great deal of damage to other objects. However, a wrecking ball that is not in motion is incapable of performing work. Energy associated with objects in motion is called <term>kinetic energy</term>. A speeding bullet, a walking person, the rapid movement of molecules in the air (which produces heat), and electromagnetic radiation like light all have kinetic energy.
+
+
+
+Any moving object has kinetic energy and thus can do work. Similarly, work has to be done on an object to change its kinetic energy. The kinetic energy of an object of mass 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m} {}</m:annotation></m:semantics></m:math> and speed 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>v</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v} {}</m:annotation></m:semantics></m:math>is given by the relation 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>E</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">/</m:mo><m:mn>2</m:mn></m:mrow></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>mv</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{E=1/2 ital "mv" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>.
+
+</para><para id="eip-572">Sometimes energy can be stored and used at a later time. For example, a compressed spring and water held back by a dam both have the potential to do work (<link target-id="fig-ch06_02_01" document=""/>). They are said to possess <term>potential energy</term>. When the spring or water is released its potential energy is transformed into kinetic energy and other forms of energy such as heat. 
+
+
+Remember that wrecking ball described above moving, even slowly has kinetic energy.  What if it is motionless, lying on the ground; does it possess any form of energy?  Now what if that same motionless wrecking ball is lifted two stories above a car with a crane? If the suspended wrecking ball is unmoving, is there energy associated with it? The answer is yes. The suspended wrecking ball has energy associated with it that is fundamentally different from the kinetic energy of objects in motion. This form of energy results from the fact that there is the <emphasis effect="italics">potential</emphasis> for the wrecking ball to do work. If it is released, indeed it would do work. Because this type of energy refers to the potential to do work, it is called <term>potential energy</term>. Objects transfer their energy between kinetic and potential in the following way: As the wrecking ball hangs motionless, it has 0 kinetic and 100 percent potential energy. Once it is released, its kinetic energy begins to increase because it builds speed due to gravity. At the same time, as it nears the ground, it loses potential energy. Somewhere mid-fall it has 50 percent kinetic and 50 percent potential energy. Just before it hits the ground, the ball has nearly lost its potential energy and has near-maximal kinetic energy. 
+
+The energy associated to the gravitational force near the surface of the earth is potential energy. Other forms of energy are really combinations of kinetic and potential energy. For example, chemical energy, is the electrical potential energy stored in atoms. Heat energy is a combination of the potential and kinetic energy of the particles in a substance. </para><section id="fs-id1988431">
+<figure id="fig-ch06_02_01" class="  "><media id="fs-id1477773" alt="The photo on the left shows water behind a dam. The photo on the right shows a waterfall.">
+<image mime-type="image/jpg" src="../../media/Figure_06_03_01ab.jpg" width="500"/>
+</media>
+<caption>Water behind a dam has potential energy. Moving water, such as in a waterfall or a rapidly flowing river, has kinetic energy. (credit “dam”: modification of work by "Pascal"/Flickr; credit “waterfall”: modification of work by Frank Gualtieri)</caption></figure><para id="fs-id2170204">Potential energy is not only associated with the location of matter (such as a child sitting on a tree branch), but also with the structure of matter. A spring on the ground has potential energy if it is compressed; so does a rubber band that is pulled taut. The very existence of living cells relies heavily on structural potential energy. On a chemical level, the bonds that hold the atoms of molecules together have potential energy. Remember that anabolic cellular pathways require energy to synthesize complex molecules from simpler ones, and catabolic pathways release energy when complex molecules are broken down. The fact that energy can be released by the breakdown of certain chemical bonds implies that those bonds have potential energy. In fact, there is potential energy stored within the bonds of all the food molecules we eat, which is eventually harnessed for use. This is because these bonds can release energy when broken. The type of potential energy that exists within chemical bonds, and is released when those bonds are broken, is called <term>chemical energy</term> (<link target-id="fig-ch06_02_02" document=""/>). Chemical energy is responsible for providing living cells with energy from food. The release of energy is brought about by breaking the molecular bonds within fuel molecules.</para>
+<figure id="fig-ch06_02_02"><media id="fs-id2315555" alt="The molecular formula of octane (top), which is a chain of eight carbons and eighteen hydrogens, fuels a racecar speeding along a track (bottom).">
+<image mime-type="image/jpg" src="../../media/Figure_06_03_02ab.jpg" width="320"/>
+</media>
+<caption>The molecules in gasoline (octane, the chemical formula shown) contain chemical energy within the chemical bonds. This energy is transformed into kinetic energy that allows a car to race on a racetrack. (credit “car”: modification of work by Russell Trow)</caption></figure>
+<note id="fs-id1568451" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id2004550" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/simple_pendulum.png" width="130"/>
+</media>
+<para id="fs-id1469809">Visit this <link window="new" url="http://openstaxcollege.org/l/simple_pendulum">site</link> and select “A simple pendulum” on the menu (under “Harmonic Motion”) to see the shifting kinetic (K) and potential energy (U) of a pendulum in motion.</para></note></section>
+<section id="eip-308"><title>Forms of Energy</title><para id="id3862026"><term>Mechanical energy</term> puts something in motion. It moves cars and lifts elevators. A machine uses mechanical energy to do work. The mechanical energy of a system is the sum of its kinetic and potential energy. Levers, which need a fulcrum to operate, are the simplest type of machine. Wheels, pulleys and inclined planes are the basic elements of most machines. </para>
+      <para id="fs-id1166628417977"><term>Chemical energy</term> is the energy stored in molecules and chemical compounds, and is found in food, wood, coal, petroleum and other fuels. When the chemical bonds are broken, either by combustion or other chemical reactions, the stored chemical energy is released in the form of heat or light. For example, muscle cells contain glycogen. When the muscle does work the glycogen is broken down into glucose. When the chemical energy in the glucose is transferred to the muscle fibers some of the energy goes into the surroundings as heat.</para>
+      <para id="fs-id1167413545202"><term>Electrical energy</term> is produced when unbalanced forces between electrons and protons in atoms create moving electrons called electric currents. For example, when we spin a copper wire through the poles of a magnet we induce the motion of electrons in the wire and produce electricity. Electricity can be used to perform work such as lighting a bulb, heating a cooking element on a stove or powering a motor. Note that electricity is a "secondary" source of energy. That means other sources of energy are needed to produce electricity.</para>
+      
+      <para id="fs-id1167423904615"><term>Radiant energy</term> is carried by waves. Changes in the internal energy of particles cause the atoms to emit energy in the form of electromagnetic radiation which includes visible light, ultraviolet (UV) radiation, infrared (IR) radiation, microwaves, radio waves, gamma rays, and X-rays. Electromagnetic radiation from the sun, particularly light, is of utmost importance in environmental systems because biogeochemical cycles and virtually all other processes on earth are driven by them.</para>
+      <para id="fs-id1167419110920"> </para>
+      <para id="fs-id1167413119144"><term>Thermal energy</term> or <term>Heat energy</term> is related to the motion or vibration of molecules in a substance. When a thermal system changes, heat flows in or out of the system. Heat energy flows from hot bodies to cold ones. Heat flow, like work, is an energy transfer. When heat flows into a substance it may increase the kinetic energy of the particles and thus elevate its temperature. Heat flow may also change the arrangement of the particles making up a substance by increasing their potential energy. This is what happens to water when it reaches a temperature of 100ºC. The molecules of water move further away from each other, thereby changing the state of the water from a liquid to a gas. During the phase transition the temperature of the water does not change.</para>
+      <para id="fs-id1167417346866"> </para>
+      <para id="fs-id1170655933709"><term>Nuclear Energy</term> is energy that comes from the binding of the protons and neutrons that make up the nucleus of the atoms. It can be released from atoms in two different ways: nuclear fusion or nuclear fission. In <term>nuclear fusion</term>, energy is released when atoms are combined or fused together. This is how the sun produces energy. In <term>nuclear fission</term>, energy is released when atoms are split apart. Nuclear fission is used in nuclear power plants to produce electricity. Uranium 235 is the fuel used in most nuclear power plants because it undergoes a chain reaction extremely rapidly, resulting in the fission of trillions of atoms within a fraction of a second.</para>
+      <para id="fs-id1170659046227"> </para>
+    
+</section><section id="fs-id1366956">
+<title>Free Energy</title>
+<para id="fs-id2051640">After learning that chemical reactions release energy when energy-storing bonds are broken, an important next question is how is the energy associated with chemical reactions quantified and expressed? How can the energy released from one reaction be compared to that of another reaction? A measurement of <term>free energy</term> is used to quantitate these energy transfers. Free energy is called Gibbs free energy (abbreviated with the letter G) after Josiah Willard Gibbs, the scientist who developed the measurement. Recall that according to the second law of thermodynamics, all energy transfers involve the loss of some amount of energy in an unusable form such as heat, resulting in entropy. Gibbs free energy specifically refers to the energy associated with a chemical reaction that is available after entropy is accounted for. In other words, Gibbs free energy is usable energy, or energy that is available to do work.</para>
+<para id="fs-id1896127">Every chemical reaction involves a change in free energy, called delta G (∆G). The change in free energy can be calculated for any system that undergoes such a change, such as a chemical reaction. To calculate ∆G, subtract the amount of energy lost to entropy (denoted as ∆S) from the total energy change of the system. This total energy change in the system is called <term>enthalpy</term> and is denoted as ∆H . The formula for calculating ∆G  is as follows, where the symbol T refers to absolute temperature in Kelvin (degrees Celsius + 273):</para>
+<equation id="eip-327">
+<m:math display="block">
+ <m:mrow>
+<m:mi>Δ</m:mi><m:mtext>G</m:mtext><m:mo>=</m:mo><m:mi>Δ</m:mi><m:mtext>H</m:mtext><m:mo>−</m:mo><m:mtext>T</m:mtext><m:mi>Δ</m:mi><m:mtext>S</m:mtext>
+ </m:mrow>
+</m:math>
+</equation><para id="fs-id2335177">The standard free energy change of a chemical reaction is expressed as an amount of energy per mole of the reaction product (either in kilojoules or kilocalories, kJ/mol or kcal/mol; 1 kJ = 0.239 kcal) under standard pH, temperature, and pressure conditions. Standard pH, temperature, and pressure conditions are generally calculated at pH 7.0 in biological systems, 25 degrees Celsius, and 100 kilopascals (1 atm pressure), respectively.  It is important to note that cellular conditions vary considerably from these standard conditions, and so standard calculated ∆G  values for biological reactions will be different inside the cell.</para>
+<section id="fs-id1394781">
+<title>Endergonic Reactions and Exergonic Reactions</title>
+<para id="fs-id1236680">If energy is released during a chemical reaction, then the resulting value from the above equation will be a negative number. In other words, reactions that release energy have a ∆G &lt; 0. A negative ∆G  also means that the products of the reaction have less free energy than the reactants, because they gave off some free energy during the reaction. Reactions that have a negative ∆G  and consequently release free energy are called <term>exergonic reactions</term>. Think: <emphasis effect="italics">ex</emphasis>ergonic means energy is <emphasis effect="italics">ex</emphasis>iting the system. These reactions are also referred to as spontaneous reactions, because they can occur without the addition of energy into the system. Understanding which chemical reactions are spontaneous and release free energy is extremely useful for biologists, because these reactions can be harnessed to perform work inside the cell. An important distinction must be drawn between the term spontaneous and the idea of a chemical reaction that occurs immediately. Contrary to the everyday use of the term, a spontaneous reaction is not one that suddenly or quickly occurs. The rusting of iron is an example of a spontaneous reaction that occurs slowly, little by little, over time.</para>
+<para id="fs-id1406190">If a chemical reaction requires an input of energy rather than releasing energy, then the ∆G  for that reaction will be a positive value. In this case, the products have more free energy than the reactants. Thus, the products of these reactions can be thought of as energy-storing molecules. These chemical reactions are called <term>endergonic reactions</term>, and they are non-spontaneous. An endergonic reaction will not take place on its own without the addition of free energy.</para>
+<para id="fs-id1235966">Let’s revisit the example of the synthesis and breakdown of the food molecule, glucose. Remember that the building of complex molecules, such as sugars, from simpler ones is an anabolic process and requires energy. Therefore, the chemical reactions involved in anabolic processes are endergonic reactions. On the other hand, the catabolic process of breaking sugar down into simpler molecules releases energy in a series of exergonic reactions. Like the example of rust above, the breakdown of sugar involves spontaneous reactions, but these reactions don’t occur instantaneously.  <link target-id="fig-ch06_02_03" document=""/> shows some other examples of endergonic and exergonic reactions. Later sections will provide more information about what else is required to make even spontaneous reactions happen more efficiently.</para>
+<note id="fs-idp35744256" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-id1772017"><figure id="fig-ch06_02_03"><media id="fs-id2155472" alt=" Four photos show (a) a compost pile, (b) a baby chick emerging from a fertilized egg, (c) sand art, and (d) a ball rolling downhill.">
+<image mime-type="image/png" src="../../media/Figure_B06_03_05abcd_new.png" width="400"/>
+</media>
+<caption>Shown are some examples of endergonic processes (ones that require energy) and exergonic processes (ones that release energy). These include (a) a compost pile decomposing, (b) a chick hatching from a fertilized egg, (c) sand art being destroyed, and (d) a ball rolling down a hill. (credit a: modification of work by Natalie Maynor; credit b: modification of work by USDA; credit c: modification of work by “Athlex”/Flickr; credit d: modification of work by Harry Malsch)</caption></figure></para>
+<para id="fs-id1361463">Look at each of the processes shown, and decide if it is endergonic or exergonic. In each case, does enthalpy increase or decrease, and does entropy increase or decrease?</para>
+</note><para id="fs-id1485321">An important concept in the study of metabolism and energy is that of chemical equilibrium. Most chemical reactions are reversible. They can proceed in both directions, releasing energy into their environment in one direction, and absorbing it from the environment in the other direction (<link target-id="fig-ch06_02_04" document=""/>). The same is true for the chemical reactions involved in cell metabolism, such as the breaking down and building up of proteins into and from individual amino acids, respectively. Reactants within a closed system will undergo chemical reactions in both directions until a state of equilibrium is reached. This state of equilibrium is one of the lowest possible free energy and a state of maximal entropy. Energy must be put into the system to push the reactants and products away from a state of equilibrium. Either reactants or products must be added, removed, or changed. If a cell were a closed system, its chemical reactions would reach equilibrium, and it would die because there would be insufficient free energy left to perform the work needed to maintain life. In a living cell, chemical reactions are constantly moving towards equilibrium, but never reach it. This is because a living cell is an open system. Materials pass in and out, the cell recycles the products of certain chemical reactions into other reactions, and chemical equilibrium is never reached. In this way, living organisms are in a constant energy-requiring, uphill battle against equilibrium and entropy. This constant supply of energy ultimately comes from sunlight, which is used to produce nutrients in the process of photosynthesis.</para>
+<figure id="fig-ch06_02_04" class="  "><media id="fs-id1769482" alt="The two plots show the change in Gibbs free energy as reactants are converted to products. Gibbs free energy decreases with time for an exergonic reaction (left), and the reaction is spontaneous. Gibbs free energy increases with time for an exergonic reaction (right), and the reaction is not spontaneous">
+<image mime-type="image/jpg" src="../../media/Figure_06_03_03.jpg" width="550"/>
+</media>
+<caption>Exergonic and endergonic reactions result in changes in Gibbs free energy. Exergonic reactions release energy; endergonic reactions require energy to proceed.</caption></figure><exercise id="eip-401"><title>Reading Energy Diagrams</title><problem id="eip-368">
+  <para id="eip-3">
+    Use figure 4 above. In exergonic reactions, the products have:
+  </para>
+<list id="eip-id1167865182771" list-type="enumerated" number-style="lower-alpha">
+<item>more energy than the reactants</item>
+<item>less energy than the reactants</item>
+<item>are always the higher energy compounds</item>
+<item>are always the lower energy compounds</item>
+<item>a and c</item>
+<item>b and d</item>
+</list>
+</problem>
+
+<solution id="eip-579">
+  <para id="eip-350">
+    b
+  </para>
+</solution>
+</exercise><exercise id="eip-169"><problem id="eip-970">
+  <para id="eip-902">
+    Use figure 4 above. The information in the deltaG of a reaction:
+  </para>
+<list id="eip-id1167865182772" list-type="enumerated" number-style="lower-alpha">
+<item>tells you the rate of the reaction</item>
+<item>tells you if it is exergonic or endergonic</item>
+<item>tells if the reaction has reached equilibrium</item>
+<item>tells the the amount of energy difference between the reactants and products</item>
+<item>a and b</item>
+<item>a and c</item>
+<item>a and d</item>
+<item>b and c</item>
+<item>b and d</item>
+</list>
+</problem>
+
+<solution id="eip-918">
+  <para id="eip-193">
+    i
+  </para>
+</solution>
+</exercise></section>
+</section>
+<section id="fs-id1242632">
+<title>Activation Energy</title>
+<para id="fs-id1378392">There is another important concept that must be considered regarding endergonic and exergonic reactions. Even exergonic reactions require a small amount of energy input to get going before they can proceed with their energy-releasing steps. These reactions have a net release of energy, but still require some energy in the beginning. This small amount of energy input necessary for all chemical reactions to occur is called the <term>activation energy</term> (or free energy of activation) and is abbreviated E<sub>A</sub> (<link target-id="fig-ch06_02_05" document=""/>).</para>
+<para id="fs-id1439064">Why would an energy-releasing, negative ∆G reaction actually require some energy to proceed? The reason lies in the steps that take place during a chemical reaction. During chemical reactions, certain chemical bonds are broken and new ones are formed. For example, when a glucose molecule is broken down, bonds between the carbon atoms of the molecule are broken. Since these are energy-storing bonds, they release energy when broken. However, to get them into a state that allows the bonds to break, the molecule must be somewhat contorted. A small energy input is required to achieve this contorted state. This contorted state is called the <term>transition state</term>, and it is a high-energy, unstable state. For this reason, reactant molecules don’t last long in their transition state, but very quickly proceed to the next steps of the chemical reaction. Free energy diagrams illustrate the energy profiles for a given reaction. Whether the reaction is exergonic or endergonic determines whether the products in the diagram will exist at a lower or higher energy state than both the reactants and the products. However, regardless of this measure, the transition state of the reaction exists at a higher energy state than the reactants, and thus, E<sub>A</sub> is always positive.</para>
+<note id="fs-id1805336" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id1799530" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/energy_reaction.png" width="130"/>
+</media>
+<para id="fs-id1942750">Watch an animation of the move from free energy to transition state at <link window="new" url="http://openstaxcollege.org/l/energy_reaction">this</link> site.</para><para id="eip-121"><title>Video Link</title>For a video to further explore activation energy click
+
+<link url="https://www.youtube.com/watch?v=YacsIU97OFc ">here</link>.
+
+</para>
+</note><para id="fs-id1446439">Where does the activation energy required by chemical reactants come from? The source of the activation energy needed to push reactions forward is typically heat energy from the surroundings. <term>Heat energy</term> (the total bond energy of reactants or products in a chemical reaction) speeds up the motion of molecules, increasing the frequency and force with which they collide; it also moves atoms and bonds within the molecule slightly, helping them reach their transition state. For this reason, heating up a system will cause chemical reactants within that system to react more frequently. Increasing the pressure on a system has the same effect. Once reactants have absorbed enough heat energy from their surroundings to reach the transition state, the reaction will proceed.</para>
+<para id="fs-id1768863">The activation energy of a particular reaction determines the rate at which it will proceed. The higher the activation energy, the slower the chemical reaction will be. The example of iron rusting illustrates an inherently slow reaction. This reaction occurs slowly over time because of its high E<sub>A</sub>. Additionally, the burning of many fuels, which is strongly exergonic, will take place at a negligible rate unless their activation energy is overcome by sufficient heat from a spark. Once they begin to burn, however, the chemical reactions release enough heat to continue the burning process, supplying the activation energy for surrounding fuel molecules. Like these reactions outside of cells, the activation energy for most cellular reactions is too high for heat energy to overcome at efficient rates. In other words, in order for important cellular reactions to occur at appreciable rates (number of reactions per unit time), their activation energies must be lowered (<link target-id="fig-ch06_02_05" document=""/>); this is referred to as catalysis. This is a very good thing as far as living cells are concerned. Important macromolecules, such as proteins, DNA, and RNA, store considerable energy, and their breakdown is exergonic. If cellular temperatures alone provided enough heat energy for these exergonic reactions to overcome their activation barriers, the essential components of a cell would disintegrate.</para>
+<note id="fs-id1721002" class="art-connection"><label/><title>Art Connection</title>
+<para id="fs-id1787601"><figure id="fig-ch06_02_05"><media id="fs-id2018830" alt="This plot shows the activation energy for an exergonic reaction. As the reaction proceeds, energy initially increases to overcome the activation energy. In a catalyzed reaction, the activation energy is much lower. The energy then decreases such that the Gibbs free energy of the products is less than that of the reactants. The activation energy is the peak of the energy plot minus the energy of the reactants. The Gibbs free energy is the energy of the products minus the energy of the reactants.">
+<image mime-type="image/jpg" src="../../media/Figure_06_03_04.jpg" width="280"/>
+</media>
+<caption>Activation energy is the energy required for a reaction to proceed, and it is lower if the reaction is catalyzed. The horizontal axis of this diagram describes the sequence of events in time.</caption></figure></para>
+<para id="fs-id1974397">If no activation energy were required to break down sucrose (table sugar), would you be able to store it in a sugar bowl?</para><exercise id="eip-269"><title>Activation Energy</title><problem id="eip-1000">
+  <para id="eip-179">
+    Lowering the activation energy:
+  </para>
+<list id="eip-id1167865182773" list-type="enumerated" number-style="lower-alpha">
+<item>makes the reaction happen faster</item>
+<item>lowers the energy level of the transition state</item>
+<item>is accomplished by adding a catalyst to the reaction</item>
+<item>always causes more product to be produced</item>
+<item>only reduces the transition state energy level in one direction, from reactants to products</item>
+<item>a, b and c</item>
+<item>b and c</item>
+<item>all of the above are true</item>
+</list>
+</problem>
+
+<solution id="eip-989">
+  <para id="eip-809">
+    g
+  </para>
+</solution>
+</exercise>
+</note></section>
+</section><section id="id-928979380316">
+      <title>CONSERVATION OF ENERGY</title>
+      <para id="id3241902">Though energy can be converted from one form to another, energy cannot be created or destroyed. This principle is called the "law of conservation of energy." For example, in a motorcycle, the chemical potential energy of the fuel changes to kinetic energy. In a radio, electricity is converted into kinetic energy and wave energy (sound).</para>
+      <para id="id14401391">Machines can be used to convert energy from one form to another. Though ideal machines conserve the mechanical energy of a system, some of the energy always turns into heat when using a machine. For example, heat generated by friction is hard to collect and transform into another form of energy. In this situation, heat energy is usually considered unusable or lost.</para>
+      </section><section id="eip-513"><title>Energy Sources </title><para id="fs-id1170660989689">The source of energy for many processes occurring on the earth's surface comes from the sun. Radiating solar energy heats the earth unevenly, creating air movements in the atmosphere. Therefore, the sun drives the winds, ocean currents and the water cycle. Sunlight energy is used by plants to create chemical energy through a process called photosynthesis, and this supports the life and growth of plants. In addition, dead plant material decays, and over millions of years is converted into fossil fuels (oil, coal, etc.).</para>
+      <para id="fs-id1170658766093">Today, we make use of various sources of energy found on earth to produce electricity. Using machines, we convert the energies of wind, biomass, fossil fuels, water, heat trapped in the earth (geothermal), nuclear and solar energy into usable electricity. The above sources of energy differ in amount, availability, time required for their formation and usefulness. For example, the energy released by one gram of uranium during nuclear fission is much larger than that produced during the combustion of an equal mass of coal.</para>
+      <para id="eip-965">For this class, it is important for you to be able to identify the energy source for living cells.  Whether we are discussing organisms such as trees or dogs, or individual cells, such as muscle or brain cells, or free living cells, such as bacteria or yeast, all cells need an energy source.  Being able to identifying the cellular energy source will be one of the goals of this class.  In addition most metabolic reactions require an energy source as well.  Identifying and applying these concepts will be a major focus of this course.   </para><para id="fs-id1170657141324">   US ENERGY PRODUCTION (Quadrillion BTU)</para>
+      <table id="fs-id1169153045262" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>(Source: US DOE)</entry>
+              <entry>1975</entry>
+              <entry>2000</entry>
+            </row>
+            <row>
+              <entry>Coal</entry>
+              <entry>14.989 (24.4%)</entry>
+              <entry>22.663 (31.5%)</entry>
+            </row>
+            <row>
+              <entry>Natural Gas (dry)</entry>
+              <entry>19.640 (32.0%)</entry>
+              <entry>19.741 (27.5%)</entry>
+            </row>
+            <row>
+              <entry>Crude Oil</entry>
+              <entry>17.729 (28.9%)</entry>
+              <entry>12.383 (17.2%)</entry>
+            </row>
+            <row>
+              <entry>Nuclear</entry>
+              <entry>1.900 (3.1%) </entry>
+              <entry>8.009 (11.2%)</entry>
+            </row>
+            <row>
+              <entry>Hydroelectric</entry>
+              <entry>3.155 (5.1%)</entry>
+              <entry>2.841 (4.0%)</entry>
+            </row>
+            <row>
+              <entry>Natural Gas (plant liquid)</entry>
+              <entry>2.374 (3.9%)</entry>
+              <entry>2.607 (3.6%)</entry>
+            </row>
+            <row>
+              <entry>Geothermal</entry>
+              <entry>0.070 (0.1%)</entry>
+              <entry>0.319 (0.4%)</entry>
+            </row>
+            <row>
+              <entry>Other</entry>
+              <entry>1.499 (2.5%)</entry>
+              <entry>3.275 (4.6%)</entry>
+            </row>
+            <row>
+              <entry>TOTAL</entry>
+              <entry>61.356</entry>
+              <entry>71.838</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="fs-id1169152603666">(Source: US Department of Energy)</para><section id="eip-801"><title>What about energy in common biologically relevant molecules?</title><para id="eip-291">All cells require energy, without an energy supply cells quickly die.  Shortly we will discuss in great detail how and where cells obtain energy. But first lets think about how much energy can be found in some common compounds associated with cells.  We can get an idea by looking at the Enthalpy or Heat of Combustion (Delta Hc) which is the energy released as heat when a compound undergoes complete combustion with oxygen under standard conditions, of some common biologically relevant compounds.</para><list id="eip-382"><title>Enthalpy of Combustion, Delta Hc</title><item>Glucose (C6H12O6) = -686 kcal/mol</item>
+<item>Methane (CH4) = -215 kcal/mol</item>
+<item>Methanol (CH3OH) = -144 kcal/mol</item>
+<item>Acetic acid (C2H4O2) = -257 kcal/mol</item>
+<item>Hydrogen Sulfide (H2S) = -134 kcal/mol</item>
+<item>Ammonia (NH3) = -91.7 kcal/mol</item>
+<item>Hydrogen (H2) = -68 kcal/mol</item>
+<item>Water (H20) =  -17.2 kcal/mol
+</item>
+<item>CO2 =  - 1.9 kcal/mol
+</item>
+</list></section>
+      </section><section id="eip-752"><title>Section Summary</title><para id="fs-id2000265">Energy comes in many different forms. Objects in motion do physical work, and kinetic energy is the energy of objects in motion. Objects that are not in motion may have the potential to do work, and thus, have potential energy. Molecules also have potential energy because the breaking of molecular bonds has the potential to release energy. Living cells depend on the harvesting of potential energy from molecular bonds to perform work. Free energy is a measure of energy that is available to do work. The free energy of a system changes during energy transfers such as chemical reactions, and this change is referred to as ∆G.</para>
+<para id="fs-id1343175">The ∆G  of a reaction can be negative or positive, meaning that the reaction releases energy or consumes energy, respectively. A reaction with a negative ∆G  that gives off energy is called an exergonic reaction. One with a positive ∆G  that requires energy input is called an endergonic reaction. Exergonic reactions are said to be spontaneous, because their products have less energy than their reactants. The products of endergonic reactions have a higher energy state than the reactants, and so these are nonspontaneous reactions. However, all reactions (including spontaneous -∆G  reactions) require an initial input of energy in order to reach the transition state, at which they’ll proceed. This initial input of energy is called the activation energy.</para>
+
+</section>
+    </section>
+
+<section id="eip-629"><title>THERMODYNAMICS</title><para id="eip-351">
+Thermodynamics refers to the study of energy and energy transfer involving physical matter. The matter and its environment relevant to a particular case of energy transfer are classified as a system, and everything outside of that system is called the surroundings. For instance, when heating a pot of water on the stove, the system includes the stove, the pot, and the water. Energy is transferred within the system (between the stove, pot, and water). There are two types of systems: open and closed. An open system is one in which energy can be transferred between the system and its surroundings. The stovetop system is open because heat can be lost into the air. A closed system is one that cannot transfer energy to its surroundings.</para>
+<para id="eip-995">Biological organisms are open systems. Energy is exchanged between them and their surroundings, as they consume energy-storing molecules and release energy to the environment by doing work. Like all things in the physical world, energy is subject to the laws of physics. The laws of thermodynamics govern the transfer of energy in and among all systems in the universe.</para>
+
+<section id="eip-568"><title>The First Law of Thermodynamics </title><para id="eip-428">The first law of thermodynamics deals with the total amount of energy in the universe. It states that this total amount of energy is constant. In other words, there has always been, and always will be, exactly the same amount of energy in the universe. Energy exists in many different forms. According to the first law of thermodynamics, energy may be transferred from place to place or transformed into different forms, but it cannot be created or destroyed. The transfers and transformations of energy take place around us all the time. Light bulbs transform electrical energy into light energy. Gas stoves transform chemical energy from natural gas into heat energy. Plants perform one of the most biologically useful energy transformations on earth: that of converting the energy of sunlight into the chemical energy stored within organic molecules (<link target-id="fig-ch06_01_01" document="m44422"/>). Some examples of energy transformations are shown in  <link target-id="fig-ch06_03_01" document=""/>.
+</para><para id="eip-38">The challenge for all living organisms is to obtain energy from their surroundings in forms that they can transfer or transform into usable energy to do work. Living cells have evolved to meet this challenge very well. Chemical energy stored within organic molecules such as sugars and fats is transformed through a series of cellular chemical reactions into energy within molecules of ATP. Energy in ATP molecules is easily accessible to do work. Examples of the types of work that cells need to do include building complex molecules, transporting materials, powering the beating motion of cilia or flagella, contracting muscle fibers to create movement, and reproduction.</para>
+
+<figure id="fig-ch06_03_01"><media id="fs-id2199498" alt="The left side of this diagram depicts energy being transferred from an ice cream cone to two boys riding a bike. The right side depicts a plant converting light energy into chemical energy.">
+<image mime-type="image/jpg" src="../../media/Figure_06_02_01-17d9.jpg" width="300"/>
+</media>
+<caption>Shown are two examples of energy being transferred from one system to another and transformed from one form to another. Humans can convert the chemical energy in food, like this ice cream cone, into kinetic energy (the energy of movement to ride a bicycle). Plants can convert electromagnetic radiation (light energy) from the sun into chemical energy. (credit “ice cream”: modification of work by D. Sharon Pruitt; credit “kids on bikes”: modification of work by Michelle Riggen-Ransom; credit “leaf”: modification of work by Cory Zanker)</caption></figure></section>
+
+<section id="fs-id1467282">
+<title>The Second Law of Thermodynamics</title>
+<para id="fs-id2336465">A living cell’s primary tasks of obtaining, transforming, and using energy to do work may seem simple. However, the second law of thermodynamics explains why these tasks are harder than they appear. None of the energy transfers we’ve discussed, along with all energy transfers and transformations in the universe, is completely efficient. In every energy transfer, some amount of energy is lost in a form that is unusable. In most cases, this form is heat energy. Thermodynamically, <term>heat energy</term> is defined as the energy transferred from one system to another that is not doing work. For example, when an airplane flies through the air, some of the energy of the flying plane is lost as heat energy due to friction with the surrounding air. This friction actually heats the air by temporarily increasing the speed of air molecules. Likewise, some energy is lost as heat energy during cellular metabolic reactions. This is good for warm-blooded creatures like us, because heat energy helps to maintain our body temperature. Strictly speaking, no energy transfer is completely efficient, because some energy is lost in an unusable form.</para>
+<para id="fs-id1631701">An important concept in physical systems is that of order and disorder (also known as randomness). The more energy that is lost by a system to its surroundings, the less ordered and more random the system is. Scientists refer to the measure of randomness or disorder within a system as <term>entropy</term>. High entropy means high disorder and low energy (<link target-id="fig-ch06_03_02" document=""/>). To better understand entropy, think of a student’s bedroom. If no energy or work were put into it, the room would quickly become messy. It would exist in a very disordered state, one of high entropy. Energy must be put into the system, in the form of the student doing work and putting everything away, in order to bring the room back to a state of cleanliness and order. This state is one of low entropy. Similarly, a car or house must be constantly maintained with work in order to keep it in an ordered state. Left alone, the entropy of the house or car gradually increases through rust and degradation. Molecules and chemical reactions have varying amounts of entropy as well. For example, as chemical reactions reach a state of equilibrium, entropy increases, and as molecules at a high concentration in one place diffuse and spread out, entropy also increases.</para>
+<note id="fs-id1626927" class="scientific"><label/><title>Scientific Connection</title>
+
+<para id="fs-id2326289"><title>Transfer of Energy and the Resulting Entropy</title>Set up a simple experiment to understand how energy is transferred and how a change in entropy results.</para>
+<list id="fs-id1255097" list-type="enumerated">
+<item>Take a block of ice. This is water in solid form, so it has a high structural order. This means that the molecules cannot move very much and are in a fixed position. The temperature of the ice is 0°C. As a result, the entropy of the system is low.</item>
+<item>Allow the ice to melt at room temperature. What is the state of molecules in the liquid water now? How did the energy transfer take place? Is the entropy of the system higher or lower? Why?</item>
+<item>Heat the water to its boiling point. What happens to the entropy of the system when the water is heated?</item>
+</list>
+</note><para id="fs-id873679">All physical systems can be thought of in this way: Living things are highly ordered, requiring constant energy input to be maintained in a state of low entropy. As living systems take in energy-storing molecules and transform them through chemical reactions, they lose some amount of usable energy in the process, because no reaction is completely efficient. They also produce waste and by-products that aren’t useful energy sources. This process increases the entropy of the system’s surroundings. Since all energy transfers result in the loss of some usable energy, the second law of thermodynamics states that every energy transfer or transformation increases the entropy of the universe. Even though living things are highly ordered and maintain a state of low entropy, the entropy of the universe in total is constantly increasing due to the loss of usable energy with each energy transfer that occurs. Essentially, living things are in a continuous uphill battle against this constant increase in universal entropy.</para><figure id="fig-ch06_03_02"><media id="fs-id1770096" alt="This diagram shows that solids have a regular packing arrangement and low entropy, whereas liquids have irregular packing and higher entropy.">
+<image mime-type="image/jpg" src="../../media/Figure_06_02_02.jpg" width="300"/>
+</media>
+<caption>Entropy is a measure of randomness or disorder in a system. Gases have higher entropy than liquids, and liquids have higher entropy than solids.</caption></figure>
+</section>
+
+<section id="fs-id1613002" class="summary">
+<title>Section Summary</title><para id="fs-id1281011">In studying energy, scientists use the term “system” to refer to the matter and its environment involved in energy transfers. Everything outside of the system is called the surroundings. Single cells are biological systems. Systems can be thought of as having a certain amount of order. It takes energy to make a system more ordered. The more ordered a system is, the lower its entropy. Entropy is a measure of the disorder of a system. As a system becomes more disordered, the lower its energy and the higher its entropy become.</para>
+<para id="fs-id2491691">A series of laws, called the laws of thermodynamics, describe the properties and processes of energy transfer. The first law states that the total amount of energy in the universe is constant. This means that energy can’t be created or destroyed, only transferred or transformed. The second law of thermodynamics states that every energy transfer involves some loss of energy in an unusable form, such as heat energy, resulting in a more disordered system. In other words, no energy transfer is completely efficient and tends toward disorder.</para>
+</section>
+<section id="eip-849"><title>Summary Review Questions</title><exercise id="fs-idm57896784"><problem id="fs-id1970779">
+<para id="fs-idp55181168"> <link target-id="fig-ch06_02_03" document=""/> Look at each of the processes shown, and decide if it is endergonic or exergonic. In each case, does enthalpy increase or decrease, and does entropy increase or decrease?</para>
+</problem>
+<solution id="fs-id1772383">
+<label/>
+<para id="fs-id1404899"> <link target-id="fig-ch06_02_03" document=""/> A compost pile decomposing is an exergonic process; enthalpy increases (energy is released) and entropy increases (large molecules are broken down into smaller ones). A baby developing from a fertilized egg is an endergonic process; enthalpy decreases (energy is absorbed) and entropy decreases. Sand art being destroyed is an exergonic process; there is no change in enthalpy, but entropy increases. A ball rolling downhill is an exergonic process; enthalpy decreases (energy is released), but there is no change in enthalpy.</para>
+</solution>
+</exercise><exercise id="fs-idp41379504"><problem id="fs-id2078828">
+<para id="fs-idp66710416"> <link target-id="fig-ch06_02_05" document=""/> If no activation energy were required to break down sucrose (table sugar), would you be able to store it in a sugar bowl?</para>
+</problem>
+<solution id="fs-id1786520"><label/>
+<para id="fs-id1507066"> <link target-id="fig-ch06_02_05" document=""/> No. We can store chemical energy because of the need to overcome the barrier to its breakdown.</para>
+</solution>
+</exercise>
+</section><section id="eip-660"><exercise id="fs-id2258341">
+<problem id="fs-id1778807"><para id="fs-id1967789">Consider a pendulum swinging. Which type(s) of energy is/are associated with the pendulum in the following instances: i. the moment at which it completes one cycle, just before it begins to fall back towards the other end, ii. the moment that it is in the middle between the two ends, iii. just before it reaches the end of one cycle (just before instant i.).</para>
+<list id="fs-id1771443" list-type="enumerated" number-style="lower-alpha">
+<item>i. potential and kinetic, ii. potential and kinetic, iii. kinetic</item>
+<item>i. potential, ii. potential and kinetic, iii. potential and kinetic</item>
+<item>i. potential, ii. kinetic, iii. potential and kinetic</item>
+<item>i. potential and kinetic, ii. kinetic iii. kinetic</item>
+</list>
+</problem>
+<solution id="fs-id1396419">
+<label/>
+<para id="fs-id1975218">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id1791408">
+<problem id="fs-id1524656"><para id="fs-id1249157">Which of the following comparisons or contrasts between endergonic and exergonic reactions is false?</para>
+<list id="fs-id1704998" list-type="enumerated" number-style="lower-alpha">
+<item>Endergonic reactions have a positive ∆G and exergonic reactions have a negative ∆G</item>
+<item>Endergonic reactions consume energy and exergonic reactions release energy</item>
+<item>Both endergonic and exergonic reactions require a small amount of energy to overcome an activation barrier</item>
+<item>Endergonic reactions take place slowly and exergonic reactions take place quickly</item>
+</list>
+</problem>
+<solution id="fs-id2216009">
+<label/>
+<para id="fs-id2188624">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1772148">
+<problem id="fs-id1968190"><para id="fs-id2279994">Which of the following is the best way to judge the relative activation energies between two given chemical reactions?</para>
+<list id="fs-id1785669" list-type="enumerated" number-style="lower-alpha">
+<item>Compare the ∆G values between the two reactions</item>
+<item>Compare their reaction rates</item>
+<item>Compare their ideal environmental conditions</item>
+<item>Compare the spontaneity between the two reactions</item>
+</list>
+</problem>
+<solution id="fs-id2010854">
+<label/>
+<para id="fs-id1882991">B</para>
+</solution>
+</exercise>
+
+</section><section id="eip-431"><exercise id="fs-id1768714">
+<problem id="fs-id2025390"><para id="fs-id1966544">Explain in your own words the difference between a spontaneous reaction and one that occurs instantaneously, and what causes this difference.</para></problem>
+<solution id="fs-id1594532"><label/>
+<para id="fs-id1883228">A spontaneous reaction is one that has a negative ∆G and thus releases energy. However, a spontaneous reaction need not occur quickly or suddenly like an instantaneous reaction. It may occur over long periods due to a large energy of activation, which prevents the reaction from occurring quickly.</para></solution>
+</exercise>
+<exercise id="fs-id1863345">
+<problem id="fs-id1805502"><para id="fs-id1769427">Describe the position of the transition state on a vertical energy scale, from low to high, relative to the position of the reactants and products, for both endergonic and exergonic reactions.</para></problem>
+<solution id="fs-id1871574"><label/>
+<para id="fs-id2187832">The transition state is always higher in energy than the reactants and the products of a reaction (therefore, above), regardless of whether the reaction is endergonic or exergonic.</para></solution>
+</exercise>
+
+</section><section id="fs-id2026434" class="multiple-choice">
+<exercise id="fs-id1242488">
+<problem id="fs-id2192724"><para id="fs-id2078590">Which of the following is not an example of an energy transformation?</para>
+<list id="fs-id1454570" list-type="enumerated" number-style="lower-alpha">
+<item>Turning on a light switch</item>
+<item>Solar panels at work</item>
+<item>Formation of static electricity</item>
+<item>None of the above</item>
+</list>
+</problem>
+<solution id="fs-id1769754">
+<label/>
+<para id="fs-id2228037">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id2229379">
+<problem id="fs-id1595664"><para id="fs-id1165639674432">Label each of the following systems as high or low entropy: i. the instant that a perfume bottle is sprayed compared with 30 seconds later, ii. an old 1950s car compared with a brand new car, and iii. a living cell compared with a dead cell.</para>
+<list id="fs-id1165635377977" list-type="enumerated" number-style="lower-alpha">
+<item>i. low, ii. high, iii. low</item>
+<item>i. low, ii. high, iii. high</item>
+<item>i. high, ii. low, iii. high</item>
+<item>i. high, ii. low, iii. Low</item>
+</list>
+</problem>
+<solution id="fs-id1369088">
+<label/>
+<para id="fs-id1772028">A</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2491166" class="free-response">
+<exercise id="fs-id2024135">
+<problem id="fs-id846110"><para id="fs-id1171881705721">Imagine an elaborate ant farm with tunnels and passageways through the sand where ants live in a large community. Now imagine that an earthquake shook the ground and demolished the ant farm. In which of these two scenarios, before or after the earthquake, was the ant farm system in a state of higher or lower entropy?</para></problem>
+<solution id="fs-id1167342714917"><label/>
+<para id="fs-id1708061">The ant farm had lower entropy before the earthquake because it was a highly ordered system. After the earthquake, the system became much more disordered and had higher entropy.</para></solution>
+</exercise>
+<exercise id="fs-id1876170">
+<problem id="fs-id2059689"><para id="fs-id1248468">Energy transfers take place constantly in everyday activities. Think of two scenarios: cooking on a stove and driving. Explain how the second law of thermodynamics applies to these two scenarios.</para></problem>
+<solution id="fs-id2197107"><label/>
+<para id="fs-id2011760">While cooking, food is heating up on the stove, but not all of the heat goes to cooking the food, some of it is lost as heat energy to the surrounding air, increasing entropy. While driving, cars burn gasoline to run the engine and move the car. This reaction is not completely efficient, as some energy during this process is lost as heat energy, which is why the hood and the components underneath it heat up while the engine is turned on. The tires also heat up because of friction with the pavement, which is additional energy loss. This energy transfer, like all others, also increases entropy.</para></solution>
+</exercise>
+</section>
+</section>
+
+<section id="eip-126"><title>Appendix I:  Energy Units</title><para id="fs-id1169155301370">In the International System of Units (SI), the unit of work or energy is the <term>Joule </term>(J). For very small amounts of energy, the erg (erg) is sometimes used. An <term>erg </term>is one ten millionth of a Joule: </para>
+      <equation id="fs-id1170436157086">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Joule</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mtext>10</m:mtext>
+                            <m:mi>,</m:mi>
+                            <m:mtext>000</m:mtext>
+                            <m:mi>,</m:mi>
+                            <m:mtext>000</m:mtext>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>ergs</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+1 {} #  ital "Joule"{}
+} = matrix {
+"10","000","000" {} #  ital "ergs"{}
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="fs-id1165630168707"><term>Power </term>is the rate at which energy is used. The unit of power is the <term>Watt </term>(W), named after James Watt, who perfected the steam engine:</para>
+      <equation id="fs-id1171880002840">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Watt</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Joule</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mtext>/sec</m:mtext>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>ond</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+1 {} #  ital "Watt"{}
+} = matrix {
+1 {} #  ital "Joule""/sec" ital "ond"{}
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="fs-id1165634282027"> Power is sometimes measured in <term>horsepower </term>(hp):</para>
+      <equation id="fs-id1167345101340">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>horsepower</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mtext>746</m:mtext>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Watts</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+1 {} #  ital "horsepower"{}
+} = matrix {
+"746" {} #  ital "Watts"{}
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="fs-id1165632738119"> <term>Electrical ene</term>rgy is generally expressed in <term>kilowatt-hours </term>(kWh):</para>
+      <equation id="fs-id1170443737526">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>kilowatt</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>hour</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>3,</m:mn>
+                            <m:mtext>600</m:mtext>
+                            <m:mi>,</m:mi>
+                            <m:mtext>000</m:mtext>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Joules</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+1 {} #  ital "kilowatt" -  ital "hour"{}
+} = matrix {
+3,"600","000" {} #  ital "Joules"{}
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="fs-id1165633818794">
+        <emphasis>It is important to realize that a kilowatt-hour is a unit of energy not power. For example, an iron rated at </emphasis>
+        <emphasis>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mtext>2000</m:mtext>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Watts</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+"2000" {} #  ital "Watts"{}
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </emphasis>
+        <emphasis> would consume </emphasis>
+        <emphasis>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>2x3</m:mn>
+                            <m:mtext>.</m:mtext>
+                            <m:mn>6x</m:mn>
+                            <m:msup>
+                              <m:mtext>10</m:mtext>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>6</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mi>J</m:mi>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+2x3 "." 6x"10" rSup { size 8{6} }  {} # J{}
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </emphasis>
+        <emphasis> of energy in </emphasis>
+        <emphasis>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>hour</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+1 {} #  ital "hour"{}
+} } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </emphasis>
+        <emphasis>.</emphasis>
+      </para>
+      <para id="fs-id1165637790201"><emphasis>Heat energy is often measured in calories. One calorie (cal) is defined as the heat required to raise the temperature of </emphasis><emphasis><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>gram</m:mtext></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+1 {} #  ital "gram"{}
+} } {}</m:annotation></m:semantics></m:math></emphasis><emphasis> of water from </emphasis>14.5 <emphasis>to </emphasis>15.5 ºC:</para>
+      <equation id="fs-id1515207">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>calorie</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mtable>
+                      <m:mtr>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mn>4</m:mn>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>189</m:mtext>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                        <m:mtd>
+                          <m:mrow>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>Joules</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow/>
+                          </m:mrow>
+                        </m:mtd>
+                      </m:mtr>
+                    </m:mtable>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+1 {} #  ital "calorie"{}
+} = matrix {
+4 "." "189" {} #  ital "Joules"{}
+} } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation>
+      <para id="fs-id1170658863574">An old, but still used unit of heat is the <term>British Thermal Unit</term> (BTU). It is defined as the heat energy required to raise the energy temperature of 1 pound of water from 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mtext>63</m:mtext></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"63"} {}</m:annotation></m:semantics></m:math> to 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>64</m:mtext><m:mmultiscripts><m:mtext/><m:mprescripts/><m:none/><m:mstyle fontsize="8pt"><m:mrow><m:mo stretchy="false">°</m:mo></m:mrow></m:mstyle></m:mmultiscripts><m:mi>F</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"64""" lSup { size 8{ circ } } F} {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="eip-472"><quote id="eip-id1166626750098">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>BTU</m:mtext></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable><m:mo stretchy="false">=</m:mo><m:mtable><m:mtr><m:mtd><m:mrow><m:mtext>1055</m:mtext><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Joules</m:mtext></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ matrix {
+1 {} #  ital "BTU"{}
+} = matrix {
+"1055" {} #  ital "Joules"{}
+} } {}</m:annotation></m:semantics></m:math></quote>
+      </para><table id="fs-id1168596544015" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry> Physical Quantity</entry>
+              <entry>Name</entry>
+              <entry>Symbol</entry>
+              <entry>SI Unit</entry>
+            </row>
+            <row>
+              <entry>  Force</entry>
+              <entry>Newton</entry>
+              <entry>N</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>kg</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:mi>m</m:mi>
+                            </m:mrow>
+                            <m:mo stretchy="false">/</m:mo>
+                            <m:msup>
+                              <m:mi>s</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ ital "kg" cdot m/s rSup { size 8{2} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+            <row>
+              <entry>  Energy</entry>
+              <entry>Joule</entry>
+              <entry>J</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>kg</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:msup>
+                                <m:mi>m</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                            <m:mo stretchy="false">/</m:mo>
+                            <m:msup>
+                              <m:mi>s</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ ital "kg" cdot m rSup { size 8{2} } /s rSup { size 8{2} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+            <row>
+              <entry>  Power</entry>
+              <entry> Watt</entry>
+              <entry>W</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>kg</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mo stretchy="false">⋅</m:mo>
+                              <m:msup>
+                                <m:mi>m</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                            <m:mo stretchy="false">/</m:mo>
+                            <m:msup>
+                              <m:mi>s</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>3</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ ital "kg" cdot m rSup { size 8{2} } /s rSup { size 8{3} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      </section></content>
+<glossary>
+<definition id="fs-id1286063"><term>activation energy</term> <meaning id="fs-id1635254">energy necessary for reactions to occur</meaning></definition>
+<definition id="fs-id1433263"><term>chemical energy</term> <meaning id="fs-id1519767">potential energy in chemical bonds that is released when those bonds are broken</meaning></definition>
+<definition id="fs-id2575234"><term>endergonic</term> <meaning id="fs-id2072264">describes chemical reactions that require energy input</meaning></definition>
+<definition id="fs-id1359443"><term>enthalpy</term> <meaning id="fs-id1720501">total energy of a system</meaning></definition>
+<definition id="fs-id1260889"><term>exergonic</term> <meaning id="fs-id1769864">describes chemical reactions that release free energy</meaning></definition>
+<definition id="fs-id2057346"><term>free energy</term> <meaning id="fs-id1720773">Gibbs free energy is the usable energy, or energy that is available to do work.</meaning></definition>
+<definition id="fs-id1988350"><term>heat energy</term> <meaning id="fs-id1640143">total bond energy of reactants or products in a chemical reaction</meaning></definition>
+<definition id="fs-id1808392"><term>kinetic energy</term> <meaning id="fs-id1419914">type of energy associated with objects or particles in motion</meaning></definition>
+<definition id="fs-id1689970"><term>potential energy</term> <meaning id="fs-id1772400">type of energy that has the potential to do work; stored energy</meaning></definition>
+<definition id="fs-id1341960"><term>transition state</term> <meaning id="fs-id1482640">high-energy, unstable state (an intermediate form between the substrate and the product) occurring during a chemical reaction</meaning></definition>
+</glossary>
+
+</document>
