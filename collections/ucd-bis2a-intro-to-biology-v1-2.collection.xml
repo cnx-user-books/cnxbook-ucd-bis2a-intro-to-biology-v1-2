@@ -1,349 +1,78 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="Mitch Singer">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11890</md:content-id>
-  <md:title>UCD Bis2A Intro to Biology v1.2</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>aef60e11-29b8-43fe-8e52-2b8c159644cd</md:uuid>
-<md:slug>ucd-bis2a-intro-to-biology-v1-2</md:slug>
-</metadata>
-
+    <md:content-id>col11890</md:content-id>
+    <md:title>UCD Bis2A Intro to Biology v1.2</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>aef60e11-29b8-43fe-8e52-2b8c159644cd</md:uuid>
+    <md:slug>ucd-bis2a-intro-to-biology-v1-2</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m55901"/>
-        
-      
-    
-    
-      <col:module document="m55903"/>
-        
-      
-    
-    
-      <col:module document="m55895"/>
-        
-      
-    
-    
-      <col:module document="m55906"/>
-        
-      
-    
-    
-      <col:module document="m55962"/>
-        
-      
-    
-    
-      <col:module document="m55972"/>
-        
-      
-    
-    
-      <col:module document="m55970"/>
-        
-      
-    
-    
-      <col:module document="m55948"/>
-        
-      
-    
-    
-      <col:module document="m55991"/>
-        
-      
-    
-    
-      <col:module document="m55963"/>
-        
-      
-    
-    
-      <col:module document="m56006"/>
-        
-      
-    
-    
-      <col:module document="m56005"/>
-        
-      
-    
-    
-      <col:module document="m55977"/>
-        
-      
-    
-    
-      <col:module document="m56001"/>
-        
-      
-    
-    
-      <col:module document="m55994"/>
-        
-      
-    
-    
-      <col:module document="m56004"/>
-        
-      
-    
-    
-      <col:module document="m55985"/>
-        
-      
-    
-    
-      <col:module document="m56007"/>
-        
-      
-    
-    
-      <col:module document="m56008"/>
-        
-      
-    
-    
-      <col:module document="m56009"/>
-        
-      
-    
-    
-      <col:module document="m56020"/>
-        
-      
-    
-    
-      <col:module document="m55951"/>
-        
-      
-    
-    
-      <col:module document="m56011"/>
-        
-      
-    
-    
-      <col:module document="m56017"/>
-        
-      
-    
-    
-      <col:module document="m56014"/>
-        
-      
-    
-    
-      <col:module document="m56021"/>
-        
-      
-    
-    
-      <col:module document="m56023"/>
-        
-      
-    
-    
-      <col:module document="m56028"/>
-        
-      
-    
-    
-      <col:module document="m55949"/>
-        
-      
-    
-    
-      <col:module document="m56025"/>
-        
-      
-    
-    
-      <col:module document="m56030"/>
-        
-      
-    
-    
-      <col:module document="m56031"/>
-        
-      
-    
-    
-      <col:module document="m56032"/>
-        
-      
-    
-    
-      <col:module document="m56036"/>
-        
-      
-    
-    
-      <col:module document="m56035"/>
-        
-      
-    
-    
-      <col:module document="m56038"/>
-        
-      
-    
-    
-      <col:module document="m56039"/>
-        
-      
-    
-    
-      <col:module document="m56043"/>
-        
-      
-    
-    
-      <col:module document="m56522"/>
-        
-      
-    
-    
-      <col:module document="m56044"/>
-        
-      
-    
-    
-      <col:module document="m56052"/>
-        
-      
-    
-    
-      <col:module document="m56047"/>
-        
-      
-    
-    
-      <col:module document="m56054"/>
-        
-      
-    
-    
-      <col:module document="m56053"/>
-        
-      
-    
-    
-      <col:module document="m56056"/>
-        
-      
-    
-    
-      <col:module document="m56068"/>
-        
-      
-    
-    
-      <col:module document="m56059"/>
-        
-      
-    
-    
-      <col:module document="m56061"/>
-        
-      
-    
-    
-      <col:module document="m56064"/>
-        
-      
-    
-    
-      <col:module document="m56069"/>
-        
-      
-    
-    
-      <col:module document="m56070"/>
-        
-      
-    
-    
-      <col:module document="m56072"/>
-        
-      
-    
-    
-      <col:module document="m56073"/>
-        
-      
-    
-    
-      <col:module document="m56075"/>
-        
-      
-    
-    
-      <col:module document="m56077"/>
-        
-      
-    
-    
-      <col:module document="m56082"/>
-        
-      
-    
-    
-      <col:module document="m56080"/>
-        
-      
-    
-    
-      <col:module document="m56084"/>
-        
-      
-    
-    
-      <col:module document="m56088"/>
-        
-      
-    
-    
-      <col:module document="m56093"/>
-        
-      
-    
-    
-      <col:module document="m56095"/>
-        
-      
-    
-    
-      <col:module document="m56086"/>
-        
-      
-    
-    
-      <col:module document="m56089"/>
-        
-      
-    
-    
-      <col:module document="m56091"/>
-        
-      
-    
-    
-      <col:module document="m56097"/>
-        
-      
-    
+    <col:module document="m55901"/>
+    <col:module document="m55903"/>
+    <col:module document="m55895"/>
+    <col:module document="m55906"/>
+    <col:module document="m55962"/>
+    <col:module document="m55972"/>
+    <col:module document="m55970"/>
+    <col:module document="m55948"/>
+    <col:module document="m55991"/>
+    <col:module document="m55963"/>
+    <col:module document="m56006"/>
+    <col:module document="m56005"/>
+    <col:module document="m55977"/>
+    <col:module document="m56001"/>
+    <col:module document="m55994"/>
+    <col:module document="m56004"/>
+    <col:module document="m55985"/>
+    <col:module document="m56007"/>
+    <col:module document="m56008"/>
+    <col:module document="m56009"/>
+    <col:module document="m56020"/>
+    <col:module document="m55951"/>
+    <col:module document="m56011"/>
+    <col:module document="m56017"/>
+    <col:module document="m56014"/>
+    <col:module document="m56021"/>
+    <col:module document="m56023"/>
+    <col:module document="m56028"/>
+    <col:module document="m55949"/>
+    <col:module document="m56025"/>
+    <col:module document="m56030"/>
+    <col:module document="m56031"/>
+    <col:module document="m56032"/>
+    <col:module document="m56036"/>
+    <col:module document="m56035"/>
+    <col:module document="m56038"/>
+    <col:module document="m56039"/>
+    <col:module document="m56043"/>
+    <col:module document="m56522"/>
+    <col:module document="m56044"/>
+    <col:module document="m56052"/>
+    <col:module document="m56047"/>
+    <col:module document="m56054"/>
+    <col:module document="m56053"/>
+    <col:module document="m56056"/>
+    <col:module document="m56068"/>
+    <col:module document="m56059"/>
+    <col:module document="m56061"/>
+    <col:module document="m56064"/>
+    <col:module document="m56069"/>
+    <col:module document="m56070"/>
+    <col:module document="m56072"/>
+    <col:module document="m56073"/>
+    <col:module document="m56075"/>
+    <col:module document="m56077"/>
+    <col:module document="m56082"/>
+    <col:module document="m56080"/>
+    <col:module document="m56084"/>
+    <col:module document="m56088"/>
+    <col:module document="m56093"/>
+    <col:module document="m56095"/>
+    <col:module document="m56086"/>
+    <col:module document="m56089"/>
+    <col:module document="m56091"/>
+    <col:module document="m56097"/>
   </col:content>
 </col:collection>
